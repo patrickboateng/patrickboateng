@@ -17,6 +17,7 @@ class Person:
               programing_stack: list[str], 
               favorite_editor: str,
               favorite_language: str = "python",
+              favorite_technology: str = "Artificial Intelligence (AI)"
               ):
 
       self.name = name
@@ -25,8 +26,12 @@ class Person:
       self.programming_stack = programming_stack
       self.favorite_editor = favorite_editor
 
+name: str = "Patrick Boateng"
+alias: str = "Pato"
+programming_stack = ["Python", "C", "Javacript"]
+favorite_editor = "neovim"
 
-person = Person(name="Patrick Boateng", alias="Pato", programming_stack=["Python", "C", "Javascript"], favorite_editor="neovim")
+person = Person(name, alias, programming_stack, favorite_editor)
 ```
 
 #
