@@ -43,8 +43,9 @@ person.editors = ["neovim", "vs-code", "jupyter-notebook"]
 
 <img align="left" alt="python" width=30 style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" alt="C" width=30 style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-<img align="left" alt="C" width=30 style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-
+<img align="left" alt="javascript" width=30 style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img align="left" alt="go" width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />
+<img align="left" alt="go" width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" />
 <br />
 
 #
@@ -66,13 +67,13 @@ person.editors = ["neovim", "vs-code", "jupyter-notebook"]
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pato546&repo=data-structures&theme=dark" />
 </a>
 
-<br/>
+<br />
 
 <a href="https://github.com/Pato546/algorithms">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pato546&repo=algorithms&theme=dark" />
 </a>
 
-<br/>
+<br />
 
 <!--
   Themes Available
