@@ -4,7 +4,7 @@
 
 ## `PatoCodes`
 
-I am **Civil Engineer** by profession and a self taught **Computer Programmer** by passion.
+I am **Civil Engineer** by profession and a self taught **Computer Programmer**.
 
 ### About Me
 
