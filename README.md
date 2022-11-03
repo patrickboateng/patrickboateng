@@ -1,5 +1,5 @@
 <p align="center">
-<img alt="" title="" src="assets/logo-github.jpg" width="500px" height="250px">
+<img alt="" title="" src="assets/logo-github.jpg" width="90%" height="250px">
 </p>
 
 ## `PatoCodes`
