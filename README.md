@@ -6,7 +6,7 @@
 
 I am **Civil Engineer** by profession and a self taught **Computer Programmer**.
 
-### About Me
+### `About Me`
 
 ```python
 class Person:
@@ -36,7 +36,7 @@ person = Person(name, alias, programming_stack, favorite_editor)
 
 #
 
-### 🧰 Programming Languages andTTools
+### 🧰`Programming Languages andTTools`
 
 <img align="left" alt="python" width=30 style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" alt="C" width=30 style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
@@ -46,7 +46,7 @@ person = Person(name, alias, programming_stack, favorite_editor)
 
 #
 
-### 📊 Stats
+### 📊 `Stats`
 
 ![Pato's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pato546&show_icons=true&theme=dark)
 
