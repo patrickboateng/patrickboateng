@@ -16,7 +16,7 @@ class Person:
               traits: list[str], 
               programing_stack: list[str], 
               favorite_editor: str,
-              favorite_languae: str = "python",
+              favorite_language: str = "python",
               ):
 
       self.name = name
