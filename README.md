@@ -4,7 +4,7 @@
 
 ## `PatoCodes`
 
-I am **Civil Engineer** by profession and a self taught **Computer Programmer**.
+I am a **Civil Engineer** by profession and a self taught **Computer Programmer**.
 
 #
 
@@ -30,8 +30,8 @@ class Person:
 
 name: str = "Patrick Boateng"
 alias: str = "Pato"
-programming_stack = ["Python", "C", "Javacript", "Go"]
-favorite_editor = "neovim"
+programming_stack: list = ["Python", "C", "Javacript", "Go"]
+favorite_editor: str = "neovim"
 
 person = Person(name, alias, programming_stack, favorite_editor)
 person.editors = ["neovim", "vs-code", "jupyter-notebook"]
