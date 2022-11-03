@@ -1,4 +1,6 @@
-<img align="center" alt="" title="" src="assets/logo-github.jpg" width="500px" height="250px">
+<p align="center">
+<img alt="" title="" src="assets/logo-github.jpg" width="500px" height="250px">
+</p>
 
 ## `PatoCodes`
 
