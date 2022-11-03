@@ -1,20 +1,22 @@
 <p align="center">
-  <img alt="logo" title="logo" src="assets/logo-github.jpg" height="250px">
+  <img alt="logo" title="logo" src="assets/logo-twitter.jpg" height="50%">
 </p>
 
 ## `PatoCodes`
 
 I am **Civil Engineer** by profession and a self taught **Computer Programmer**.
 
-### `About Me`
+#
+
+### About Me
 
 ```python
 class Person:
-  def __init__(self, 
-              name: str, 
-              alias: str, 
-              traits: list[str], 
-              programing_stack: list[str], 
+  def __init__(self,
+              name: str,
+              alias: str,
+              traits: list[str],
+              programing_stack: list[str],
               favorite_editor: str,
               favorite_language: str = "python",
               favorite_technology: str = "Artificial Intelligence (AI)"
@@ -28,31 +30,52 @@ class Person:
 
 name: str = "Patrick Boateng"
 alias: str = "Pato"
-programming_stack = ["Python", "C", "Javacript"]
+programming_stack = ["Python", "C", "Javacript", "Go"]
 favorite_editor = "neovim"
 
 person = Person(name, alias, programming_stack, favorite_editor)
+person.editors = ["neovim", "vs-code", "jupyter-notebook"]
 ```
 
 #
 
-### 🧰`Programming Languages andTTools`
+### 🧰 Programming Languages and Tools
 
 <img align="left" alt="python" width=30 style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" alt="C" width=30 style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 <img align="left" alt="C" width=30 style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 
-<br/>
+<br />
 
 #
 
-### 📊 `Stats`
+### 📊 Stats
 
-![Pato's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pato546&show_icons=true&theme=dark)
+| <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Pato546&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Pato's github stats" /></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pato546&layout=compact&theme=dark&hide_border=true" /></a> |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
+### Top Repositories
+
+<a href="https://github.com/Pato546/machine-learning-visualization">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pato546&repo=machine-learning-visualization&theme=dark" />
+</a>
+
+<br />
+
+<a href="https://github.com/Pato546/data-structures">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pato546&repo=data-structures&theme=dark" />
+</a>
+
+<br/>
+
+<a href="https://github.com/Pato546/algorithms">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pato546&repo=algorithms&theme=dark" />
+</a>
+
+<br/>
 
 <!--
   Themes Available
   ================
   dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
 -->
-
