@@ -1,6 +1,6 @@
-<p align="center">
-  <img alt="logo" title="logo" src="assets/logo-twitter.jpg" height="50%">
-</p>
+<!-- <p align="center"> -->
+<!--   <img alt="logo" title="logo" src="assets/logo-twitter.jpg" height="50%"> -->
+<!-- </p> -->
 
 ## `PatoCodes`
 
