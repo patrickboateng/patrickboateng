@@ -1,39 +1,26 @@
 <!-- </p> -->
 
-## `PatoCodes`
+## `Hi, I'm Patrick :smiley:`
 
 I am a **Civil Engineer** by profession and a self taught **Computer Programmer**.
 
 #
 
-### About Me
+### Research Interests
 
-```python
-class Person:
-  def __init__(self,
-              name: str,
-              alias: str,
-              traits: list[str],
-              programing_stack: list[str],
-              favorite_editor: str,
-              favorite_language: str = "python",
-              favorite_technology: str = "Artificial Intelligence (AI)"
-              ):
+- Machine Learning and Artificial Intelligence
+- 3D modelling of Structures
+- Computer Graphics and Numerical Simulation
+- Steel and Timber Strucures
 
-      self.name = name
-      self.alias = alias
-      self.traits = traits
-      self.programming_stack = programming_stack
-      self.favorite_editor = favorite_editor
+#
 
-name: str = "Patrick Boateng"
-alias: str = "Pato"
-programming_stack: list = ["Python", "C", "Javacript", "Go"]
-favorite_editor: str = "neovim"
+### Projects
 
-person = Person(name, alias, programming_stack, favorite_editor)
-person.editors = ["neovim", "vs-code", "jupyter-notebook"]
-```
+| **Project Name**                                                         |       **Type**        | **Status** |                               **Repo Link**                                |
+| :----------------------------------------------------------------------- | :-------------------: | :--------: | :------------------------------------------------------------------------: |
+| Predicting the compressive of concrete using machine learning techniques | Undergraduate Project |    Done    |      [Link here](https://www.github.com/Pato546/strength-prediction)       |
+| Machine Learning Algorithm Visualizer                                    |   Personal Project    |  Ongoing   | [Link here](https://www.github.com/Pato546/machine-learning-visualization) |
 
 #
 
@@ -43,33 +30,27 @@ person.editors = ["neovim", "vs-code", "jupyter-notebook"]
 <img align="left" alt="C" width=30 style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 <img align="left" alt="javascript" width=30 style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img align="left" alt="go" width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />
-<img align="left" alt="go" width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" />
+<img align="left" alt="django" width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" />
+
 <br />
 
 #
 
 ### 📊 Stats
 
-![Pato GitHub stats](https://github-readme-stats.vercel.app/api?username=Pato546&show_icons=true&theme=dark)
+![Pato GitHub stats](https://github-readme-stats.vercel.app/api?username=Pato546&show_icons=true&theme=transparent)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pato546&theme=transparent&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 #
 
 ### Top Repositories
 
-<a href="https://github.com/Pato546/machine-learning-visualization">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pato546&repo=machine-learning-visualization&theme=dark" />
-</a>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Pato546&repo=machine-learning-visualization&theme=transparent)](https://github.com/Pato546/machine-learning-visualization)
 
-<br />
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Pato546&repo=data-structures&theme=transparent)](https://github.com/Pato546/machine-learning-visualization)
 
-<a href="https://github.com/Pato546/data-structures">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pato546&repo=data-structures&theme=dark" />
-</a>
-
-<br />
-
-<a href="https://github.com/Pato546/algorithms">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pato546&repo=algorithms&theme=dark" />
-</a>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Pato546&repo=algorithms&theme=transparent)](https://github.com/Pato546/machine-learning-visualization)
 
 <br />
 
