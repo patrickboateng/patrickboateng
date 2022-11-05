@@ -19,7 +19,7 @@ I am a **Civil Engineer** by profession :mortar_board: and a self taught **Compu
 
 | **Project Name**                                                         |       **Type**        | **Status** |                               **Repo Link**                                |
 | :----------------------------------------------------------------------- | :-------------------: | :--------: | :------------------------------------------------------------------------: |
-| Predicting the compressive of concrete using machine learning techniques | Undergraduate Project | :heavy_check_mark: |      [Link here](https://www.github.com/Pato546/strength-prediction)       |
+| Predicting the compressive strength of concrete using machine learning techniques | Undergraduate Project | :heavy_check_mark: |      [Link here](https://www.github.com/Pato546/strength-prediction)       |
 | Machine Learning Algorithm Visualizer                                    |   Personal Project    |  Ongoing   | [Link here](https://www.github.com/Pato546/machine-learning-visualization) |
 
 #
