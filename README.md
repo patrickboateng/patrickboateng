@@ -1,8 +1,8 @@
 <!-- </p> -->
 
-## `Hi, I'm Patrick :smiley:`
+## `Hi, I'm Patrick` :smiley:
 
-I am a **Civil Engineer** by profession and a self taught **Computer Programmer**.
+I am a **Civil Engineer** :mortar_board: by profession and a self taught **Computer Programmer** :computer:.
 
 #
 
