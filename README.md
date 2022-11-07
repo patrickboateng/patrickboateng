@@ -2,7 +2,7 @@
 
 ### Hi, I'm `Patrick` :smiley: and I **love** <img  alt="python" width=20 style="margin-top:2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 
-I am a **Civil Engineer** by profession :mortar_board: and a self taught **Computer Programmer** :computer: 
+I am a **Civil Engineer** by profession :mortar_board: and a self taught **Computer Programmer** :computer:
 
 #
 
@@ -48,9 +48,9 @@ I am a **Civil Engineer** by profession :mortar_board: and a self taught **Compu
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Pato546&repo=machine-learning-visualization&theme=transparent)](https://github.com/Pato546/machine-learning-visualization)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Pato546&repo=data-structures&theme=transparent)](https://github.com/Pato546/machine-learning-visualization)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Pato546&repo=data-structures&theme=transparent)](https://github.com/Pato546/data-structures)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Pato546&repo=algorithms&theme=transparent)](https://github.com/Pato546/machine-learning-visualization)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Pato546&repo=algorithms&theme=transparent)](https://github.com/Pato546/algorithms)
 
 <br />
 
