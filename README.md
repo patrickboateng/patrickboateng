@@ -1,8 +1,8 @@
 <!-- </p> -->
 
-### `Hi, I'm Patrick` :smiley:
+### `Hi, I'm Patrick` :smiley: and I love <img  alt="python" width=20 style="margin-top: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 
-I am a **Civil Engineer** by profession :mortar_board: and a self taught **Computer Programmer** :computer:.
+I am a **Civil Engineer** by profession :mortar_board: and a self taught **Computer Programmer** :computer: and I love
 
 #
 
@@ -17,10 +17,10 @@ I am a **Civil Engineer** by profession :mortar_board: and a self taught **Compu
 
 ### Projects
 
-| **Project Name**                                                         |       **Type**        | **Status** |                               **Repo Link**                                |
-| :----------------------------------------------------------------------- | :-------------------: | :--------: | :------------------------------------------------------------------------: |
+| **Project Name**                                                                  |       **Type**        |     **Status**     |                               **Repo Link**                                |
+| :-------------------------------------------------------------------------------- | :-------------------: | :----------------: | :------------------------------------------------------------------------: |
 | Predicting the compressive strength of concrete using machine learning techniques | Undergraduate Project | :heavy_check_mark: |      [Link here](https://www.github.com/Pato546/strength-prediction)       |
-| Machine Learning Algorithm Visualizer                                    |   Personal Project    |  Ongoing   | [Link here](https://www.github.com/Pato546/machine-learning-visualization) |
+| Machine Learning Algorithm Visualizer                                             |   Personal Project    |      Ongoing       | [Link here](https://www.github.com/Pato546/machine-learning-visualization) |
 
 #
 
