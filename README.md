@@ -31,12 +31,23 @@ I am a **Civil Engineer** by profession :mortar_board: and a self taught **Compu
 <img align="left" alt="javascript" width=30 style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img align="left" alt="go" width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />
 <img align="left" alt="django" width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" />
+<img align="left" alt="vs-code" width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" />
+<img align="left" alt="vs-code" width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
+<br />
+
+#
+
+### Favorite Editors
+
+<img align="left" alt="vim" width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
+<img align="left" alt="vs-code" width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+<img align="left" alt="vs-code" width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
 
 <br />
 
 #
 
-### 📊 Stats
+### 📊 Github Stats
 
 ![Pato GitHub stats](https://github-readme-stats.vercel.app/api?username=Pato546&show_icons=true&theme=transparent)
 
