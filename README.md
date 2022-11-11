@@ -15,6 +15,15 @@ I am a **Civil Engineer** by profession :mortar_board: and a self taught **Compu
 
 #
 
+### Personal Research Topics
+
+- Detecting the ** _level of rust of steel reinforcement_ ** in concrete structures using machine learning and artificial intelligence.
+- Designing of ** _low carbon concrete (green concrete)_ ** using machine learning. (Idea Obtained from **Meta** (formerly facebook))
+- ** _Classification of cars_ ** that traverse on a roadway
+- ** _Predicting the compressive strength of concrete_ ** using machine learning techniques
+
+#
+
 ### Projects
 
 | **Project Name**                                                                  |       **Type**        |     **Status**     |                               **Repo Link**                                |
