@@ -2,7 +2,7 @@
 
 ### Hi, I'm `Patrick` :smiley: and I **love** <img  alt="python" width=20 style="margin-top:2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 
-I am a **Civil Engineer** by profession :mortar_board: and a self taught **Computer Programmer** :computer:
+I am a **Civil Engineer** by profession :mortar_board: and a self :man: taught **Computer Programmer** :computer:
 
 #
 
