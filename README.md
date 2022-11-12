@@ -74,6 +74,13 @@ I am a **Civil Engineer** by profession :mortar_board: and a self :man: taught *
 
 <br />
 
+#
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Pato546/count.svg" />
+</p>
+
 <!--
   Themes Available
   ================
