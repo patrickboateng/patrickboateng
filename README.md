@@ -26,10 +26,36 @@ I am a **Civil Engineer** by profession :mortar_board: and a self :man: taught *
 
 ### Projects
 
-| **Project Name**                                                                  |       **Type**        |     **Status**     |                               **Repo Link**                                |
-| :-------------------------------------------------------------------------------- | :-------------------: | :----------------: | :------------------------------------------------------------------------: |
-| Predicting the compressive strength of concrete using machine learning techniques | Undergraduate Project | :heavy_check_mark: |      [Link here](https://www.github.com/Pato546/strength-prediction)       |
-| Machine Learning Algorithm Visualizer                                             |   Personal Project    |      Ongoing       | [Link here](https://www.github.com/Pato546/machine-learning-visualization) |
+<table>
+  <thead>
+    <tr>
+      <th>Project Name</th>
+      <th>Project Type</th>
+      <th>Status</th>
+      <th>Repo Link</th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <tr>
+  <tbody>
+    <tr>
+      <td>Predicting the compressive strength of concrete using machine learning techniques</td>
+      <td>Undergraduate Project</td>
+      <td align="center">:heavy_check_mark:</td>
+      <td align="center">
+        <a href="https://www.github.com/Pato546/strength-prediction">Link here</a>
+      </td>
+    </tr>
+    <tr>
+      <td>Machine Learning Algorithm Visualizer</td>
+      <td>Personal Open Source Project</td>
+      <td align="center">Ongoing</td>
+      <td align="center"><a href="https://www.github.com/Pato546/machine-learning-visualization">Link here</a></td>
+      </tr>
+  </tbody>
+
+</table>
 
 #
 
