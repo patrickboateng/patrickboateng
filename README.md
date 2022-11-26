@@ -1,8 +1,8 @@
 <!-- </p> -->
 
-<p align="center">
+<p align="left">
 <a href="https://github.com/Pato546">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Hi,+ I'm+Patrick+:smiley:;Researcher+%7C+Geotechnical+Engineer+%7C+Computer+Programmer;AI+%7C+Computer+Vision" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Hi,+ I'm+Patrick;Researcher+%7C+Geotechnical+Engineer+%7C+Computer+Programmer;AI+%7C+Computer+Vision" alt="Typing SVG" />
 </a>
 
 ### Research Interests
@@ -17,7 +17,6 @@
 ### Personal Research Topics
 
 - Detecting the _**level of rust of steel reinforcement**_ in concrete structures using machine learning and artificial intelligence.
-- Designing of _**low carbon concrete (green concrete)**_ using machine learning. (Idea Obtained from **Meta** (formerly facebook))
 - _**Classification of cars**_ that traverse on a roadway
 - _**Predicting the compressive strength of concrete**_ using machine learning techniques
 
@@ -83,28 +82,38 @@
 
 ### 📊 Github Stats
 
-![Pato GitHub stats](https://github-readme-stats.vercel.app/api?username=Pato546&show_icons=true&theme=transparent)
+<a href="https://github.com/Pato546">
+    <img src="https://github-stats-alpha.vercel.app/api?username=Pato546&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
+</a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pato546&theme=transparent&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+#
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pato546&theme=dracula)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pato546&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pato546&theme=dracula)
 
 #
 
 ### Top Repositories
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Pato546&repo=machine-learning-visualization&theme=transparent)](https://github.com/Pato546/machine-learning-visualization)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Pato546&repo=machine-learning-visualization&theme=dracula)](https://github.com/Pato546/machine-learning-visualization)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Pato546&repo=data-structures&theme=transparent)](https://github.com/Pato546/data-structures)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Pato546&repo=data-structures&theme=dracula)](https://github.com/Pato546/data-structures)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Pato546&repo=algorithms&theme=transparent)](https://github.com/Pato546/algorithms)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Pato546&repo=algorithms&theme=dracula)](https://github.com/Pato546/algorithms)
 
 <br />
 
 #
 
-<p align="center"> 
-  Visitor count<br>
+<details>
+<summary>Visitor Count</summary>
+<br>
+<p align="left"> 
   <img src="https://profile-counter.glitch.me/Pato546/count.svg" />
 </p>
+</details>
 
 <!--
   Themes Available
