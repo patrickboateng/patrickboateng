@@ -1,10 +1,9 @@
 <!-- </p> -->
 
-### Hi, I'm `Patrick` :smiley: and I **love** <img  alt="python" width=20 style="margin-top:2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-
-I am a **Civil Engineer** by profession :mortar_board: and a self :man: taught **Computer Programmer** :computer:
-
-#
+<p align="center">
+<a href="https://github.com/Pato546">
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Hi,+ I'm+Patrick+:smiley:;Researcher+%7C+Geotechnical+Engineer+%7C+Computer+Programmer;AI+%7C+Computer+Vision" alt="Typing SVG" />
+</a>
 
 ### Research Interests
 
