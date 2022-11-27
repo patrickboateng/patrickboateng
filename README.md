@@ -113,7 +113,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Pato546&repo=algorithms&theme=dracula)](https://github.com/Pato546/algorithms)
 
-</detail>
+</details>
 
 <br />
 
