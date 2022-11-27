@@ -104,13 +104,16 @@
 
 #
 
-### Top Repositories
+<details>
+<summary>### Top Repositories</summary>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Pato546&repo=machine-learning-visualization&theme=dracula)](https://github.com/Pato546/machine-learning-visualization)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Pato546&repo=data-structures&theme=dracula)](https://github.com/Pato546/data-structures)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Pato546&repo=algorithms&theme=dracula)](https://github.com/Pato546/algorithms)
+
+</detail>
 
 <br />
 
