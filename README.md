@@ -105,7 +105,7 @@
 #
 
 <details>
-<summary>### Top Repositories</summary>
+<summary>Top Repositories</summary>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Pato546&repo=machine-learning-visualization&theme=dracula)](https://github.com/Pato546/machine-learning-visualization)
 
