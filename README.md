@@ -5,6 +5,8 @@
     <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Hi,+ I'm+Patrick;Researcher+%7C+Geotechnical+Engineer+%7C+Computer+Programmer;AI+%7C+Computer+Vision" alt="Typing SVG" />
 </a>
 
+<br>
+
 <!-- <a href="https://gkos.tech">
     <img src="https://img.shields.io/badge/Website-gkos.tech-red?style=flat-square">
 </a>   -->
@@ -84,10 +86,6 @@
 <img align="left" alt="vs-code" width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
 
 <br />
-
-#
-
-### Favorite Editors
 
 #
 
