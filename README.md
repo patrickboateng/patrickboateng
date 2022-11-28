@@ -31,7 +31,7 @@
 - Machine Learning and Artificial Intelligence
 - 3D modelling of Structures
 - Computer Graphics and Numerical Simulation
-- Steel and Timber Strucures
+- High performance finite elements
 
 #
 
