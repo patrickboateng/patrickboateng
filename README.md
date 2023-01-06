@@ -61,17 +61,38 @@
 
 ### 🧰 Programming Languages and Tools
 
-<img style="border: 1px solid cyan; padding:2px" alt="python" width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img style="border: 1px solid cyan; margin-left: 10px; padding:2px" alt="C" width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-<img style="border: 1px solid cyan; margin-left: 10px; padding:2px" alt="javascript" width=30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img style="border: 1px solid cyan; margin-left: 10px; padding:2px" alt="django" width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" />
-<img style="border: 1px solid cyan; margin-left: 10px; padding:2px" alt="vs-code" width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" />
-<img style="border: 1px solid cyan; margin-left: 10px; padding:2px" alt="vs-code" width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
-<img style="border: 1px solid cyan; margin-left: 10px; padding:2px" alt="vim" width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
-<img style="border: 1px solid cyan; margin-left: 10px; padding:2px" alt="vs-code" width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-<img style="border: 1px solid cyan; margin-left: 10px; padding:2px" alt="vs-code" width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
+<table>
 
-<br />
+  <tr>
+      <td>
+        <img style="border: 1px solid cyan; padding:2px" alt="python" width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+      </td>
+      <td>
+        <img style="border: 1px solid cyan; padding:2px" alt="C" width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+      </td>
+      <td>
+        <img style="border: 1px solid cyan; padding:2px" alt="javascript" width=30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />     
+      </td>
+      <td> 
+        <img style="border: 1px solid cyan; padding:2px" alt="django" width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" />
+      </td>
+      <td>
+        <img style="border: 1px solid cyan; padding:2px" alt="vs-code" width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" />     
+      </td>
+      <td>
+        <img style="border: 1px solid cyan; padding:2px" alt="vs-code" width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />     
+      </td>
+      <td>
+        <img style="border: 1px solid cyan; padding:2px" alt="vim" width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />     
+      </td>
+      <td>
+        <img style="border: 1px solid cyan; padding:2px" alt="vs-code" width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />     
+      </td>
+      <td>
+        <img style="border: 1px solid cyan; padding:2px" alt="vs-code" width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
+      </td>
+    </tr>
+</table>
 
 #
 
