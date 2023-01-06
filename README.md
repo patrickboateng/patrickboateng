@@ -2,19 +2,11 @@
 
 <p align="center">
 <a href="https://github.com/Pato546">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=I'm+Patrick;Researcher+%7C+Civil+Engineer+%7C+Computer+Programmer;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=I'm+Patrick;Civil+Engineer+%7C+Computer+Programmer;" alt="Typing SVG" />
 </a>
 </p>
 
-<br>
-
 <p align="center">
-<!-- <a href="https://gkos.tech">
-    <img src="https://img.shields.io/badge/Website-gkos.tech-red?style=flat-square">
-</a>   -->
-<!-- <a href="https://gkos.tech/Resume.pdf">
-    <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
-</a>   -->
 <a href="https://www.linkedin.com/in/patrick-boateng-7a9a6b150/patrick-boateng/">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
 </a>
@@ -35,14 +27,6 @@
 - Machine Learning and Artificial Intelligence
 - 3D modelling of Structures
 - Computer Graphics and Numerical Simulation
-
-#
-
-### Personal Research Topics
-
-- Detecting the _**level of rust of steel reinforcement**_ in concrete structures using machine learning and artificial intelligence.
-- _**Classification of cars**_ that traverse on a roadway
-- _**Predicting the compressive strength of concrete**_ using machine learning techniques
 
 #
 
@@ -77,16 +61,15 @@
 
 ### 🧰 Programming Languages and Tools
 
-<img align="left" alt="python" width=30 style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img align="left" alt="C" width=30 style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-<img align="left" alt="javascript" width=30 style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img align="left" alt="go" width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />
-<img align="left" alt="django" width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" />
-<img align="left" alt="vs-code" width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" />
-<img align="left" alt="vs-code" width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
-<img align="left" alt="vim" width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
-<img align="left" alt="vs-code" width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-<img align="left" alt="vs-code" width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
+<img style="border: 1px solid cyan; padding:2px" alt="python" width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img style="border: 1px solid cyan; margin-left: 10px; padding:2px" alt="C" width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+<img style="border: 1px solid cyan; margin-left: 10px; padding:2px" alt="javascript" width=30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img style="border: 1px solid cyan; margin-left: 10px; padding:2px" alt="django" width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" />
+<img style="border: 1px solid cyan; margin-left: 10px; padding:2px" alt="vs-code" width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" />
+<img style="border: 1px solid cyan; margin-left: 10px; padding:2px" alt="vs-code" width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
+<img style="border: 1px solid cyan; margin-left: 10px; padding:2px" alt="vim" width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
+<img style="border: 1px solid cyan; margin-left: 10px; padding:2px" alt="vs-code" width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+<img style="border: 1px solid cyan; margin-left: 10px; padding:2px" alt="vs-code" width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
 
 <br />
 
