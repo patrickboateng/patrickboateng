@@ -2,7 +2,7 @@
 
 <p align="center">
 <a href="https://github.com/Pato546">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=I'm+Patrick;Civil+Engineer+%7C+Computer+Programmer;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=50&lines=I'm+Patrick;Civil+Engineer+%7C+Computer+Programmer;" alt="Typing SVG" />
 </a>
 </p>
 
@@ -13,9 +13,6 @@
 <a href="mailto:boatengpato.pb@gmail.com">
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
 </a>
-<!-- <a href='https://scholar.google.com/citations?user=b___QQ8AAAAJ&hl=en&authuser=1&oi=sra' target="_blank">
-    <img alt='GoogleScholar' src='https://img.shields.io/badge/Scholar-100000?style=flat&logo=GoogleScholar&logoColor=white&&color=0181FF'>
-</a> -->
 <a href="https://pypi.org/user/Pato546/">
     <img src="https://img.shields.io/badge/PyPi-Pato546-blue?style=flat-square&logo=pypi&logoColor=white">
 </a>
