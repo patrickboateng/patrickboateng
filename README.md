@@ -93,7 +93,8 @@
 
 #
 
-### 📊 Github Stats
+<details>
+<summary> 📊 Github Stats </summary>
 
 <a href="https://github.com/Pato546">
     <img src="https://github-stats-alpha.vercel.app/api?username=Pato546&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
@@ -105,6 +106,8 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pato546&theme=dracula)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pato546&theme=dracula)
+
+</details>
 
 #
 
