@@ -2,7 +2,7 @@
 
 <p align="center">
 <a href="https://github.com/Pato546">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=50&lines=I'm+Patrick;Structural+Engineer+%7C+Computer+Programmer+%7C+AI+Ethusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=50&lines=I'm+Patrick;Structural+Engineer+%7C+Computer+Programmer+%7C+AI+Enthusiast" alt="Typing SVG" />
 </a>
 </p>
 
