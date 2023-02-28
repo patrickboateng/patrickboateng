@@ -1,5 +1,3 @@
-<p align="center"><img src="https://i.imgur.com/Fihbexl.gif" alt="Hello" width="250" /></p>
-
 <p align="center">
 <a href="https://github.com/Pato546">
     <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=50&lines=I'm+Patrick;Structural+Engineer+%7C+Computer+Programmer+%7C+AI+Enthusiast" alt="Typing SVG" />
@@ -17,13 +15,6 @@
     <img src="https://img.shields.io/badge/PyPi-Pato546-blue?style=flat-square&logo=pypi&logoColor=white">
 </a>
 </p>
-
-### Research Interests
-
-- High Performance Finite Elements
-- Machine Learning and Artificial Intelligence
-- 3D modelling of Structures
-- Computer Graphics and Numerical Simulation
 
 #
 
