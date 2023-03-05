@@ -20,30 +20,10 @@
 
 ### Projects
 
-<table>
-  <tr>
-    <th>Machine Learning</th>
-  </tr>
-  <tr>
-  <td>
-    <table>
-      <tr>
-        <th>Title</th> 
-        <th>Technologies</th>
-      </tr>
-      <tr>
-        <td align="left"><a href="https://github.com/Pato546/strength-prediction">
-        Concrete compressive strength prediction</a></td>
-        <td><img src="https://img.shields.io/badge/Python-black?style=flat-square&logo=python"> <img src="https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch"> <img src="https://img.shields.io/badge/Sklearn-black?style=flat-square&logo=scikit-learn"</td>
-      </tr>
-      <tr>
-        <td> <a href="https://www.github.com/Pato546/machine-learning-visualization">Machine Learning Algorithm Visualizer <br> and Data Preprocessor </a></td>
-        <td> <img src="https://img.shields.io/badge/Python-black?style=flat-square&logo=python"> <img src="https://img.shields.io/badge/wxPython-black?style=flat-square&logo=WxPython"> <img src="https://img.shields.io/badge/Numpy-black?style=flat-square&logo=numpy"> <br> <img src="https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas"></td>
-      </tr>
-    </table>
-  </td>
-  </tr>
-</table>
+- [**StructPro**](https://github.com/Pato546/structpro) - Structural analysis and design software for student and professionals.
+- [**Soil Classifier**](https://github.com/Pato546/soil_classifier) - Excel Add-in used for soil classification.
+- [**Concrete Strength Prediction**](https://github.com/Pato546/strength-prediction) - A machine learning model used to predict the compressive strength of concrete.
+- [**Machine Learning Visualizations**](https://github.com/Pato546/machine-learning-visualization) - Excel Add-in used to visualize how various machine learning algorithms work.
 
 #
 
@@ -84,6 +64,12 @@
 
 #
 
+### Favorite Tools
+
+- Programming Language - Python, C++
+- Machine Learning Framework - Pytorch
+- IDE / TextEditor - Pycharm, VSCode, Neovim, Jupyter Notebook
+
 <details>
 <summary> 📊 Github Stats </summary>
 
@@ -111,16 +97,6 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Pato546&repo=algorithms&theme=dracula)](https://github.com/Pato546/algorithms)
 
-</details>
-
-#
-
-<details>
-<summary>Visitor Count</summary>
-<br>
-<p align="left"> 
-  <img src="https://profile-counter.glitch.me/Pato546/count.svg" />
-</p>
 </details>
 
 <!--
