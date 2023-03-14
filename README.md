@@ -24,6 +24,7 @@
 - [**Soil Classifier**](https://github.com/Pato546/soil_classifier) - Excel Add-in used for soil classification.
 - [**Concrete Strength Prediction**](https://github.com/Pato546/strength-prediction) - A machine learning model used to predict the compressive strength of concrete.
 - [**Machine Learning Visualizations**](https://github.com/Pato546/machine-learning-visualization) - Excel Add-in used to visualize how various machine learning algorithms work.
+- [**MakePackage**](https://github.com/Pato546/makepackage) - A Python package for packaging python code.
 
 #
 
@@ -36,28 +37,13 @@
         <img style="border: 1px solid cyan; padding:2px" alt="python" width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
       </td>
       <td>
-        <img style="border: 1px solid cyan; padding:2px" alt="C" width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-      </td>
-      <td>
-        <img style="border: 1px solid cyan; padding:2px" alt="javascript" width=30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />     
-      </td>
-      <td> 
-        <img style="border: 1px solid cyan; padding:2px" alt="django" width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" />
+        <img style="border: 1px solid cyan; padding:2px" alt="C" width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
       </td>
       <td>
         <img style="border: 1px solid cyan; padding:2px" alt="vs-code" width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" />     
       </td>
       <td>
         <img style="border: 1px solid cyan; padding:2px" alt="vs-code" width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />     
-      </td>
-      <td>
-        <img style="border: 1px solid cyan; padding:2px" alt="vim" width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />     
-      </td>
-      <td>
-        <img style="border: 1px solid cyan; padding:2px" alt="vs-code" width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />     
-      </td>
-      <td>
-        <img style="border: 1px solid cyan; padding:2px" alt="vs-code" width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
       </td>
     </tr>
 </table>
