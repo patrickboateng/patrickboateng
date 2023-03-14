@@ -52,9 +52,9 @@
 
 ### Favorite Tools
 
-- Programming Language - Python, C++
-- Machine Learning Framework - Pytorch
-- IDE / TextEditor - Pycharm, VSCode, Neovim, Jupyter Notebook
+- Programming Language - [Python](https://www.python.org/), [C++](https://www.isocpp.org)
+- Machine Learning Framework - [Pytorch](https://pytorch.org/)
+- IDE / TextEditor - [Pycharm](https://www.jetbrains.com/pycharm/), [VSCode](https://code.visualstudio.com/), [Neovim](https://neovim.io/), [Jupyter Notebook](https://jupyter.org/)
 
 <details>
 <summary> 📊 Github Stats </summary>
