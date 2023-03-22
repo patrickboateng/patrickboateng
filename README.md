@@ -20,8 +20,8 @@
 
 ### Projects
 
-- [**StructPro**](https://github.com/Pato546/structpro) - Structural analysis and design software for student and professionals.
-- [**Soil Classifier**](https://github.com/Pato546/soil_classifier) - Excel Add-in used for soil classification.
+- [**StructPro**](https://github.com/Pato546/structpro) - Structural analysis and design software for **student** and **professionals**.
+- [**Soil Classifier**](https://github.com/Pato546/soil_classifier) - Excel Add-in for soil classification.
 - [**Concrete Strength Prediction**](https://github.com/Pato546/strength-prediction) - A machine learning model used to predict the compressive strength of concrete.
 - [**Machine Learning Visualizations**](https://github.com/Pato546/machine-learning-visualization) - Excel Add-in used to visualize how various machine learning algorithms work.
 - [**MakePackage**](https://github.com/Pato546/makepackage) - A Python package for packaging python code.
@@ -39,8 +39,6 @@
       <td>
         <img style="border: 1px solid cyan; padding:2px" alt="C" width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
       </td>
-      <td>
-        <img style="border: 1px solid cyan; padding:2px" alt="vs-code" width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" />     
       </td>
       <td>
         <img style="border: 1px solid cyan; padding:2px" alt="vs-code" width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />     
