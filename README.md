@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/patrick-boateng-7a9a6b150/patrick-boateng/">
+<a href="https://www.linkedin.com/in/patrickboateng/">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
 </a>
 <a href="mailto:boatengpato.pb@gmail.com">
