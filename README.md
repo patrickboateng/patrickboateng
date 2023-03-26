@@ -21,7 +21,7 @@
 ### Projects
 
 - [**StructPro**](https://github.com/patrickboateng/structpro) - Structural analysis and design software for **student** and **professionals**.
-- [**Geolab**](https://github.com/patrickboateng/geolab) - Excel Add-in for soil classification.
+- [**Geolab**](https://github.com/patrickboateng/geolab) - A geotechnical engineering software for students and professionals.
 - [**Concrete Strength Prediction**](https://github.com/patrickboateng/strength-prediction) - A machine learning model used to predict the compressive strength of concrete.
 - [**Machine Learning Visualizations**](https://github.com/patrickboateng/machine-learning-visualization) - Excel Add-in used to visualize how various machine learning algorithms work.
 - [**MakePackage**](https://github.com/patrickboateng/makepackage) - A Python package for packaging python code.
