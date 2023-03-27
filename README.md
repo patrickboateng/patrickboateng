@@ -20,11 +20,11 @@
 
 ### Projects
 
-- [**StructPro**](https://github.com/patrickboateng/structpro) - Structural analysis and design software for **student** and **professionals**.
-- [**Geolab**](https://github.com/patrickboateng/geolab) - A geotechnical engineering software for students and professionals.
-- [**Concrete Strength Prediction**](https://github.com/patrickboateng/strength-prediction) - A machine learning model used to predict the compressive strength of concrete.
-- [**Machine Learning Visualizations**](https://github.com/patrickboateng/machine-learning-visualization) - Excel Add-in used to visualize how various machine learning algorithms work.
-- [**MakePackage**](https://github.com/patrickboateng/makepackage) - A Python package for packaging python code.
+- [**structpro**](https://github.com/patrickboateng/structpro) - Structural analysis and design software for **student** and **professionals**.
+- [**geolab**](https://github.com/patrickboateng/geolab) - A geotechnical engineering software for students and professionals.
+- [**strength-prediction**](https://github.com/patrickboateng/strength-prediction) - A machine learning model used to predict the compressive strength of concrete.
+- [**machine-learning-visualizations**](https://github.com/patrickboateng/machine-learning-visualization) - Excel Add-in used to visualize how various machine learning algorithms work.
+- [**makepackage**](https://github.com/patrickboateng/makepackage) - A Python package for packaging python code.
 
 #
 
@@ -75,11 +75,11 @@
 <details>
 <summary>Top Repositories</summary>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=patrickboateng&repo=machine-learning-visualization&theme=dracula)](https://github.com/patrickboateng/machine-learning-visualization)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=patrickboateng&repo=machine-learning-visualization&theme=dracula)](https://github.com/patrickboateng/geolab)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=patrickboateng&repo=data-structures&theme=dracula)](https://github.com/patrickboateng/data-structures)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=patrickboateng&repo=data-structures&theme=dracula)](https://github.com/patrickboateng/structpro)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=patrickboateng&repo=algorithms&theme=dracula)](https://github.com/patrickboateng/algorithms)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=patrickboateng&repo=algorithms&theme=dracula)](https://github.com/patrickboateng/strength-prediction)
 
 </details>
 
