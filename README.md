@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
 </a>
 <a href="https://pypi.org/user/patrickboateng/">
-    <img src="https://img.shields.io/badge/PyPi-patrickboateng-blue?style=flat-square&logo=pypi&logoColor=white">
+    <img src="https://img.shields.io/badge/PyPi-Pato546-blue?style=flat-square&logo=pypi&logoColor=white">
 </a>
 </p>
 
