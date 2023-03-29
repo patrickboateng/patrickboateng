@@ -53,6 +53,11 @@
 - Programming Languages - [Python](https://www.python.org/), [C++](https://www.isocpp.org)
 - Machine Learning Framework - [Pytorch](https://pytorch.org/)
 - IDEs / TextEditors - [Pycharm](https://www.jetbrains.com/pycharm/), [VSCode](https://code.visualstudio.com/), [Neovim](https://neovim.io/), [Jupyter Notebook](https://jupyter.org/)
+- Code Documentation - [MkDocs](https://www.mkdocs.org/getting-started/)
+- Python Docstring Format - [Google Style Docstring](https://google.github.io/styleguide/pyguide.html)
+- Python Code Formatter - [Black](https://black.readthedocs.io/en/stable/)
+- Python GUI Frameworks - [wxpython](https://wxpython.org), [Qt/PySide6](https://wiki.qt.io/Qt_for_Python)
+- Python Testing Framework - [Pytest](https://pytest.org)
 
 <details>
 <summary> 📊 Github Stats </summary>
