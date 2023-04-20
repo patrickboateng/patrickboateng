@@ -1,6 +1,6 @@
-# Hi I'm Patrick
+# :wave: Hi I'm Patrick :smiley:
 
-I'm a structural engineer interested in computer programming and machine learning
+I'm a structural engineer :construction: interested in computer programming :computer: and machine learning :robot:
 
 ---
 
@@ -44,10 +44,11 @@ I'm a structural engineer interested in computer programming and machine learnin
 ## Favorite Tools
 
 - Programming Languages - [Python](https://www.python.org/), [C++](https://www.isocpp.org)
-- Machine Learning Framework - [Pytorch](https://pytorch.org/)
+- Machine Learning Frameworks - [Scikit Learn](https://scikit-learn.org/), [Pytorch](https://pytorch.org/)
 - IDEs / TextEditors - [Pycharm](https://www.jetbrains.com/pycharm/), [VSCode](https://code.visualstudio.com/), [Neovim](https://neovim.io/), [Jupyter Notebook](https://jupyter.org/)
 - Build Tool - [Makefile](https://gnu.org/software/make)
-- Code Documentation - [MkDocs](https://www.mkdocs.org/getting-started/)
+- Rest API - [FastAPI](https://fastapi.tiangolo.com/)
+- Python Code Documentation - [MkDocs](https://www.mkdocs.org/getting-started/)
 - Python Docstring Format - [Google Style Docstring](https://google.github.io/styleguide/pyguide.html)
 - Python Code Formatter - [Black](https://black.readthedocs.io/en/stable/), [Isort](https://pycqa.github.io/isort)
 - Python GUI Frameworks - [wxpython](https://wxpython.org), [Qt/PySide6](https://wiki.qt.io/Qt_for_Python)
