@@ -43,7 +43,7 @@ I'm a structural engineer :construction: interested in computer programming :com
 
 ## Favorite Tools
 
-| <!-- -->                    | <!-- -->                                                                                                              |
+|                             |                                                                                                                       |
 | :-------------------------- | :-------------------------------------------------------------------------------------------------------------------- |
 | Programming Languages       | [Python](https://www.python.org/), [C++](https://www.isocpp.org)                                                      |
 | Machine Learning Frameworks | [Scikit Learn](https://scikit-learn.org/), [Pytorch](https://pytorch.org/)                                            |
