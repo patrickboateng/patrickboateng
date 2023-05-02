@@ -1,4 +1,4 @@
-# :wave: Hi I'm Patrick :smiley:
+# Hi :wave: I'm Patrick :smiley:
 
 I'm a structural engineer :construction: interested in computer programming :computer: and machine learning :robot:
 
@@ -12,11 +12,13 @@ I'm a structural engineer :construction: interested in computer programming :com
 
 ## Projects
 
-- [**geolab**](https://github.com/patrickboateng/geolab) - A geotechnical engineering software for students and professionals.
-- [**strength-prediction**](https://github.com/patrickboateng/strength-prediction) - A machine learning model used to predict the compressive strength of concrete.
-- [**structpro**](https://github.com/patrickboateng/structpro) - Structural analysis and design software for **student** and **professionals**.
-- [**machine-learning-visualizations**](https://github.com/patrickboateng/machine-learning-visualization) - Excel Add-in used to visualize how various machine learning algorithms work.
-- [**makepackage**](https://github.com/patrickboateng/makepackage) - A Python package for packaging python code. (_**Contributor**_)
+| Name                                                                                                    | Description                                                                    |
+| :------------------------------------------------------------------------------------------------------ | :----------------------------------------------------------------------------- |
+| [**geolab**](https://github.com/patrickboateng/geolab)                                                  | A geotechnical engineering software for students and professionals.            |
+| [**strength-prediction**](https://github.com/patrickboateng/strength-prediction)                        | A machine learning model used to predict the compressive strength of concrete. |
+| [**structpro**](https://github.com/patrickboateng/structpro)                                            | Structural analysis and design software for **student** and **professionals**. |
+| [**machine-learning-visualizations**](https://github.com/patrickboateng/machine-learning-visualization) | Excel Add-in used to visualize how various machine learning algorithms work.   |
+| [**makepackage**](https://github.com/patrickboateng/makepackage)                                        | A Python package for packaging python code. (_**Contributor**_)                |
 
 ---
 
