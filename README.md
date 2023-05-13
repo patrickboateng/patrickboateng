@@ -1,6 +1,6 @@
 # Hi :wave: I'm Patrick :smiley:
 
-Hello! I'm a civil engineer with a passion for programming, machine learning, problem-solving, and exploring the intersection between civil engineering and computer science. I have experience primarily with Python, but I'm also comfortable with C++ and C programming languages. My expertise lies in machine learning and software development (particularly in GUI design using the [**Qt/PySide6**](https://wiki.qt.io/Qt_for_Python) Framework).
+Hello! I'm a civil engineer with a passion for programming, machine learning, problem-solving, and exploring the intersection between civil engineering and computer science. I have experience primarily with Python, but I'm also comfortable with C++ and C programming languages. My interest lies in machine learning and software development. (particularly in GUI design using the [**Qt/PySide6**](https://wiki.qt.io/Qt_for_Python) Framework)
 
 As a civil engineer, I'm drawn to solving problems in this field using programming. I'm fascinated by the potential of machine learning techniques to tackle some of the most pressing civil engineering issues. In the future, I'm excited to apply these techniques to solve problems in this space, making the most out of the potential of technology to transform this field.
 
