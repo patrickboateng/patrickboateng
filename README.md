@@ -16,7 +16,7 @@ If you're interested in my work or have exciting project ideas, let's connect! C
 
 | Name                                                                             | Description                                                                    |
 | :------------------------------------------------------------------------------- | :----------------------------------------------------------------------------- |
-| [**geolab**](https://github.com/patrickboateng/geolab)                           | A geotechnical engineering software for students and professionals.            |
+| [**geolab**](https://github.com/patrickboateng/geolab)                           | An open-source software for geotechnical engineering analysis and modelling.   |
 | [**strength-prediction**](https://github.com/patrickboateng/strength-prediction) | A machine learning model used to predict the compressive strength of concrete. |
 | [**makepackage**](https://github.com/patrickboateng/makepackage)                 | A Python package for packaging python code. (_**Contributor**_)                |
 
