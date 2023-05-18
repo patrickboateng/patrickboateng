@@ -1,12 +1,10 @@
 # Hi :wave: I'm Patrick :smiley:
 
-Hello! I'm a civil engineer with a passion for programming, machine learning, problem-solving, and exploring the intersection between civil engineering and computer science. I have experience primarily with Python, but I'm also comfortable with C++ and C programming languages. My interest lies in machine learning and software development. (particularly in GUI design using the [**Qt/PySide6**](https://wiki.qt.io/Qt_for_Python) Framework)
+Hello! I'm a civil engineer with a passion for programming, machine learning, and problem-solving. My primary programming language is Python, but I'm also confident in C and C++ programming languages, with a specific emphasis on machine learning and software development. Additionally, I have a keen interest in GUI design, specifically utilizing the [**Qt/PySide6**](https://wiki.qt.io/Qt_for_Python) Framework.
 
-As a civil engineer, I'm drawn to solving problems in this field using programming. I'm fascinated by the potential of machine learning techniques to tackle some of the most pressing civil engineering issues. In the future, I'm excited to apply these techniques to solve problems in this space, making the most out of the potential of technology to transform this field.
+I enjoy using programming to solve problems in civil engineering and exploring the potential of machine learning techniques in this field. My long-term goal is to develop software that effectively solves civil engineering problems by combining my programming and machine learning expertise.
 
-I'm a member of the NumPy community and also part of the Python developer community on LinkedIn. I'm always looking for opportunities to improve my programming skills. My long-term goal is to develop software that solves civil engineering problems effectively, using my expertise in programming and machine learning. I'm passionate about exploring new ways to bring programming and engineering together to create innovative solutions for some of the most pressing challenges in the field.
-
-If you're interested in my work or have exciting project ideas, let's connect! Check out the links below to get in touch.
+Let's connect if you're interested in my work or have exciting project ideas. Check out the links below to get in touch.
 
 [![linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/patrickboateng/)
 [![email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:boatengpato.pb@gmail.com)
