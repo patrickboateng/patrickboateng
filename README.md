@@ -1,14 +1,33 @@
 # Hi :wave: I'm Patrick :smiley:
 
-Hello! I'm a civil engineer with a passion for programming, machine learning, and problem-solving. My primary programming language is Python, but I'm also confident in C and C++ programming languages, with a specific emphasis on machine learning and software development. Additionally, I have a keen interest in GUI design, specifically utilizing the [**Qt/PySide6**](https://wiki.qt.io/Qt_for_Python) Framework.
+Hello! I'm a civil engineer with a passion for programming, machine learning, and problem-solving.
+My primary programming language is Python, but I'm also confident in C and C++ programming languages,
+with a specific emphasis on machine learning and software development. Additionally, I have a keen interest
+in GUI design, specifically utilizing the [**Qt/PySide6**](https://wiki.qt.io/Qt_for_Python) Framework.
 
-I enjoy using programming to solve problems in civil engineering and exploring the potential of machine learning techniques in this field. My long-term goal is to develop software that effectively solves civil engineering problems by combining my programming and machine learning expertise.
+I enjoy using programming to solve problems in civil engineering and exploring the potential of machine learning techniques
+in this field. My long-term goal is to develop software that effectively solves civil engineering problems by combining my
+programming and machine learning expertise.
 
 Let's connect if you're interested in my work or have exciting project ideas. Check out the links below to get in touch.
 
 [![linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/patrickboateng/)
 [![email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:boatengpato.pb@gmail.com)
 [![pypi](https://img.shields.io/badge/PyPi-Pato546-blue?style=flat-square&logo=pypi&logoColor=white)](https://pypi.org/user/Pato546/)
+
+## Online Courses Taken
+
+| Course Name | Platform |
+| :---------- | :------- |
+
+## Current Online Course
+
+| Course Name | Platform |
+| :---------- | :------- |
+
+## Badges
+
+[![Pytorch Badge](./deep-neural-networks-with-pytorch.png)](https://www.credly.com/badges/ed780275-1244-4d75-98c7-5e18e8be527a/public_url)
 
 ## Projects
 
@@ -32,7 +51,7 @@ Let's connect if you're interested in my work or have exciting project ideas. Ch
       </td>
       </td>
       <td>
-        <img style="padding:2px" alt="vs-code" width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />     
+        <img style="padding:2px" alt="pytorch" width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />     
       </td>
     </tr>
 </table>
@@ -44,7 +63,7 @@ Let's connect if you're interested in my work or have exciting project ideas. Ch
 | Programming Languages       | [Python](https://www.python.org/), [C++](https://www.isocpp.org)                                                                                         |
 | Machine Learning Frameworks | [Scikit-Learn](https://scikit-learn.org/), [Pytorch](https://pytorch.org/)                                                                               |
 | IDEs / TextEditors          | [Pycharm](https://www.jetbrains.com/pycharm/), [VSCode](https://code.visualstudio.com/), [Neovim](https://neovim.io/)                                    |
-| Build Tool                  | [Makefile](https://gnu.org/software/make)                                                                                                                |
+| Build Tool                  | [pip](), [pyinstaller](), [Makefile](https://gnu.org/software/make)                                                                                      |
 | Rest API                    | [FastAPI](https://fastapi.tiangolo.com/)                                                                                                                 |
 | Python Code Documentation   | [Sphinx](https://www.sphinx-doc.org/en/master/)                                                                                                          |
 | Python Docstring Format     | [Google-Style-Docstring](https://google.github.io/styleguide/pyguide.html)                                                                               |
