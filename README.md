@@ -17,13 +17,26 @@ Let's connect if you're interested in my work or have exciting project ideas. Ch
 
 ## Online Courses Taken
 
-| Course Name | Platform |
-| :---------- | :------- |
+<details>
 
-## Current Online Course
+<summary>Coursera</summary>
 
-| Course Name | Platform |
-| :---------- | :------- |
+- [Deep Neural Networks with PyTorch](https://www.coursera.org/account/accomplishments/certificate/VW9E3WQXYPJ9)
+- [Introduction to Git and GitHub](https://www.coursera.org/account/accomplishments/certificate/3H3N24N688CQ)
+- [Advanced Learning Algorithms](https://www.coursera.org/account/accomplishments/certificate/7PRNGGJZ7YBR)
+- [Supervised Machine Learning: Regression and Classification](https://www.coursera.org/account/accomplishments/certificate/VD8VT99H89J5)
+- [Unsupervised Learning, Recommenders, Reinforcement Learning](https://www.coursera.org/account/accomplishments/certificate/CTH6L4SBUL7S)
+- [Crash Course on Python](https://www.coursera.org/account/accomplishments/certificate/ULTQVPQLDMZU)
+
+</details>
+
+<details>
+
+<summary>Udemy</summary>
+
+- [Python 3: Deep Dive (Part 4 - OOP)](https://www.udemy.com/share/101JqY3@vEMPJ2-zJsp2y3mJDIDM6l-Ho6c4wE2Klw9pwmXIHQWtoO0WR0drUVrRz5HpgX731g==/)
+
+</details>
 
 ## Badges
 
