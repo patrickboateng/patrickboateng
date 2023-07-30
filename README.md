@@ -18,7 +18,6 @@ Let's connect if you're interested in my work or have exciting project ideas. Ch
 ## Online Courses Taken
 
 <details>
-
 <summary>Coursera</summary>
 
 - [Deep Neural Networks with PyTorch](https://www.coursera.org/account/accomplishments/certificate/VW9E3WQXYPJ9)
@@ -31,7 +30,6 @@ Let's connect if you're interested in my work or have exciting project ideas. Ch
 </details>
 
 <details>
-
 <summary>Udemy</summary>
 
 - [Python 3: Deep Dive (Part 4 - OOP)](https://www.udemy.com/share/101JqY3@vEMPJ2-zJsp2y3mJDIDM6l-Ho6c4wE2Klw9pwmXIHQWtoO0WR0drUVrRz5HpgX731g==/)
@@ -40,7 +38,7 @@ Let's connect if you're interested in my work or have exciting project ideas. Ch
 
 ## Badges
 
-[![Pytorch Badge](./deep-neural-networks-with-pytorch.png)](https://www.credly.com/badges/ed780275-1244-4d75-98c7-5e18e8be527a/public_url)
+- [Deep Neural Networks with Pytorch](https://www.credly.com/badges/ed780275-1244-4d75-98c7-5e18e8be527a/public_url)
 
 ## Projects
 
@@ -69,6 +67,9 @@ Let's connect if you're interested in my work or have exciting project ideas. Ch
 
 ## Favorite Tools
 
+<details>
+<summary>Tools</summary>
+
 - Programming Languages: [Python](https://www.python.org/), [C++](https://www.isocpp.org)
 - Machine Learning Frameworks: [Scikit-Learn](https://scikit-learn.org/), [Pytorch](https://pytorch.org/)
 - IDEs / TextEditors: [Pycharm](https://www.jetbrains.com/pycharm/), [VSCode](https://code.visualstudio.com/), [Neovim](https://neovim.io/)
@@ -80,6 +81,8 @@ Let's connect if you're interested in my work or have exciting project ideas. Ch
 - Python GUI Framework: [Qt/PySide6](https://wiki.qt.io/Qt_for_Python)
 - Python Testing Framework: [Pytest](https://pytest.org)
 - Python Static Type Checker: [Mypy](https://mypy-lang.org)
+
+</details>
 
 <!--
   Themes Available
