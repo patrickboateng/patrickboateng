@@ -60,6 +60,9 @@ Let's connect if you're interested in my work or have exciting project ideas. Ch
       </td>
       </td>
       <td>
+        <img style="padding:2px" alt="javascript" width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+      </td>
+      <td>
         <img style="padding:2px" alt="pytorch" width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />     
       </td>
     </tr>
