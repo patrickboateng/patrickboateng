@@ -33,6 +33,7 @@ Let's connect if you're interested in my work or have exciting project ideas. Ch
 <summary>Udemy</summary>
 
 - [Python 3: Deep Dive (Part 4 - OOP)](https://www.udemy.com/share/101JqY3@vEMPJ2-zJsp2y3mJDIDM6l-Ho6c4wE2Klw9pwmXIHQWtoO0WR0drUVrRz5HpgX731g==/)
+- [Clean Code](https://www.ude.my/UC-abdddf56-dea4-4cab-8a3c-aa9a77d137ca/)
 
 </details>
 
