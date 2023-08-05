@@ -15,37 +15,15 @@ Let's connect if you're interested in my work or have exciting project ideas. Ch
 [![email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:boatengpato.pb@gmail.com)
 [![pypi](https://img.shields.io/badge/PyPi-Pato546-blue?style=flat-square&logo=pypi&logoColor=white)](https://pypi.org/user/Pato546/)
 
-## Online Courses Taken
-
-<details>
-<summary>Coursera</summary>
-
-- [Deep Neural Networks with PyTorch](https://www.coursera.org/account/accomplishments/certificate/VW9E3WQXYPJ9)
-- [Introduction to Git and GitHub](https://www.coursera.org/account/accomplishments/certificate/3H3N24N688CQ)
-- [Advanced Learning Algorithms](https://www.coursera.org/account/accomplishments/certificate/7PRNGGJZ7YBR)
-- [Supervised Machine Learning: Regression and Classification](https://www.coursera.org/account/accomplishments/certificate/VD8VT99H89J5)
-- [Unsupervised Learning, Recommenders, Reinforcement Learning](https://www.coursera.org/account/accomplishments/certificate/CTH6L4SBUL7S)
-- [Crash Course on Python](https://www.coursera.org/account/accomplishments/certificate/ULTQVPQLDMZU)
-
-</details>
-
-<details>
-<summary>Udemy</summary>
-
-- [Python 3: Deep Dive (Part 4 - OOP)](https://www.udemy.com/share/101JqY3@vEMPJ2-zJsp2y3mJDIDM6l-Ho6c4wE2Klw9pwmXIHQWtoO0WR0drUVrRz5HpgX731g==/)
-- [Clean Code](https://www.ude.my/UC-abdddf56-dea4-4cab-8a3c-aa9a77d137ca/)
-
-</details>
-
-## Badges
-
-- [Deep Neural Networks with Pytorch](https://www.credly.com/badges/ed780275-1244-4d75-98c7-5e18e8be527a/public_url)
-
 ## Projects
 
 - [**geolab**](https://github.com/patrickboateng/geolab): An open-source software for geotechnical engineering analysis and modelling.
 - [**strength-prediction**](https://github.com/patrickboateng/strength-prediction): A machine learning model used to predict the compressive strength of concrete.
 - [**makepackage**](https://github.com/patrickboateng/makepackage): A Python package for packaging python code. (_**Contributor**_)
+
+## Badges
+
+- [Deep Neural Networks with Pytorch](https://www.credly.com/badges/ed780275-1244-4d75-98c7-5e18e8be527a/public_url)
 
 ## Programming Languages and Tools
 
@@ -69,10 +47,32 @@ Let's connect if you're interested in my work or have exciting project ideas. Ch
     </tr>
 </table>
 
+## Online Courses Taken
+
+<details>
+<summary>Coursera</summary>
+
+- [Deep Neural Networks with PyTorch](https://www.coursera.org/account/accomplishments/certificate/VW9E3WQXYPJ9)
+- [Introduction to Git and GitHub](https://www.coursera.org/account/accomplishments/certificate/3H3N24N688CQ)
+- [Advanced Learning Algorithms](https://www.coursera.org/account/accomplishments/certificate/7PRNGGJZ7YBR)
+- [Supervised Machine Learning: Regression and Classification](https://www.coursera.org/account/accomplishments/certificate/VD8VT99H89J5)
+- [Unsupervised Learning, Recommenders, Reinforcement Learning](https://www.coursera.org/account/accomplishments/certificate/CTH6L4SBUL7S)
+- [Crash Course on Python](https://www.coursera.org/account/accomplishments/certificate/ULTQVPQLDMZU)
+
+</details>
+
+<details>
+<summary>Udemy</summary>
+
+- [Python 3: Deep Dive (Part 4 - OOP)](https://www.udemy.com/share/101JqY3@vEMPJ2-zJsp2y3mJDIDM6l-Ho6c4wE2Klw9pwmXIHQWtoO0WR0drUVrRz5HpgX731g==/)
+- [Clean Code](https://www.ude.my/UC-abdddf56-dea4-4cab-8a3c-aa9a77d137ca/)
+
+</details>
+
 ## Favorite Tools
 
 <details>
-<summary>Tools</summary>
+<summary>Programming Tools</summary>
 
 - **Programming Languages**: [Python](https://www.python.org/), [C++](https://www.isocpp.org)
 - **Machine Learning Frameworks**: [Scikit-Learn](https://scikit-learn.org/), [Pytorch](https://pytorch.org/)
@@ -87,9 +87,3 @@ Let's connect if you're interested in my work or have exciting project ideas. Ch
 - **Python Static Type Checker**: [Mypy](https://mypy-lang.org)
 
 </details>
-
-<!--
-  Themes Available
-  ================
-  dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
--->
