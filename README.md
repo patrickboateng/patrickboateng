@@ -82,7 +82,7 @@ Let's connect if you're interested in my work or have exciting project ideas. Ch
 - **Rest API**: [FastAPI](https://fastapi.tiangolo.com/)
 - **Python Code Documentation**: [Sphinx](https://www.sphinx-doc.org/en/master/)
 - **Python Docstring Format**: [Sphinx](https://sphinx-rtd-tutorial.readthedocs.io/en/latest/docstrings.html)
-- **Python Code Formatter**: [Black](https://black.readthedocs.io/en/stable/), [Isort](https://pycqa.github.io/isort), [Docformatter](https://docformatter.readthedocs.io/en/latest/)
+- **Python Code Formatter**: [Black](https://black.readthedocs.io/en/stable/), [Isort](https://pycqa.github.io/isort)
 - **Python GUI Framework**: [Qt/PySide6](https://wiki.qt.io/Qt_for_Python)
 - **Python Testing Framework**: [Pytest](https://pytest.org)
 - **Python Static Type Checker**: [Mypy](https://mypy-lang.org)
