@@ -72,6 +72,7 @@ to get in touch.
 - [Python 3: Deep Dive (Part 4 - OOP)](https://www.udemy.com/share/101JqY3@vEMPJ2-zJsp2y3mJDIDM6l-Ho6c4wE2Klw9pwmXIHQWtoO0WR0drUVrRz5HpgX731g==/)
 - [Clean Code](https://www.ude.my/UC-abdddf56-dea4-4cab-8a3c-aa9a77d137ca/)
 - [Mastering Visual Studio Code](https://www.ude.my/UC-3bfda196-80b0-4850-a7c9-364af94118ec/)
+- [Master Microsoft Excel Macros and Excel VBA](https://www.ude.my/UC-d24d042c-9242-472e-9360-11ede0c2e2dd/)
 
 </details>
 
