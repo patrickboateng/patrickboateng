@@ -69,6 +69,9 @@ to get in touch.
 <details>
 <summary>Udemy</summary>
 
+- [Python 3: Deep Dive (Part 1 - Functional)](https://www.ude.my/UC-c0114c31-35a0-48c1-b37c-b605c3833115)
+- [Python 3: Deep Dive (Part 2 - Iterations, Generators)](https://www.ude.my/UC-4b0173b9-d135-4948-ad1f-69d81229aca8/)
+- [Python 3: Deep Dive (Part 3 - Hash Maps)](https://www.ude.my/UC-d4fe2222-f0ef-470c-b773-de4652db75e6/)
 - [Python 3: Deep Dive (Part 4 - OOP)](https://www.udemy.com/share/101JqY3@vEMPJ2-zJsp2y3mJDIDM6l-Ho6c4wE2Klw9pwmXIHQWtoO0WR0drUVrRz5HpgX731g==/)
 - [Clean Code](https://www.ude.my/UC-abdddf56-dea4-4cab-8a3c-aa9a77d137ca/)
 - [Mastering Visual Studio Code](https://www.ude.my/UC-3bfda196-80b0-4850-a7c9-364af94118ec/)
