@@ -49,7 +49,7 @@ to get in touch.
         <img style="padding:2px" alt="javascript" width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
       </td>
       <td>
-        <img style="padding:2px" alt="pytorch" width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />     
+        <img style="padding:2px" alt="pytorch" width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
       </td>
     </tr>
 </table>
@@ -97,5 +97,19 @@ to get in touch.
 - **Python GUI Framework**: [Qt/PySide6](https://wiki.qt.io/Qt_for_Python)
 - **Python Testing Framework**: [Pytest](https://pytest.org)
 - **Python Static Type Checker**: [Mypy](https://mypy-lang.org)
+
+</details>
+
+## Github Statistics
+
+<details>
+
+<summary>Github Summary</summary>
+<table>
+    <tr>
+      <td><a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=patrickboateng&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Patrick's github stats" /></a></td>
+      <td><a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrickboateng&layout=compact&theme=dark&hide_border=true" /></a></td>
+    <tr>
+</table>
 
 </details>
