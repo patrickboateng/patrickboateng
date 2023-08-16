@@ -99,17 +99,3 @@ to get in touch.
 - **Python Static Type Checker**: [Mypy](https://mypy-lang.org)
 
 </details>
-
-## Github Statistics
-
-<details>
-
-<summary>Github Summary</summary>
-<table>
-    <tr>
-      <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=patrickboateng&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Patrick's github stats" /></td>
-      <td><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrickboateng&layout=compact&theme=dark&hide_border=true" /></td>
-    <tr>
-</table>
-
-</details>
