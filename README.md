@@ -107,8 +107,8 @@ to get in touch.
 <summary>Github Summary</summary>
 <table>
     <tr>
-      <td><a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=patrickboateng&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Patrick's github stats" /></a></td>
-      <td><a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrickboateng&layout=compact&theme=dark&hide_border=true" /></a></td>
+      <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=patrickboateng&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Patrick's github stats" /></td>
+      <td><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrickboateng&layout=compact&theme=dark&hide_border=true" /></td>
     <tr>
 </table>
 
