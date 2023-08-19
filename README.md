@@ -23,7 +23,7 @@ to get in touch.
 
 - [**geolab**](https://github.com/patrickboateng/geolab): An open-source software for geotechnical
   engineering analysis and modelling.
-- [**compressive-strength-prediction**](https://github.com/patrickboateng/strength-prediction): A machine learning
+- [**compressive-strength-prediction**](https://github.com/patrickboateng/compressive-strength-prediction): A machine learning
   model used to predict the compressive strength of concrete.
 - [**makepackage**](https://github.com/patrickboateng/makepackage): A Python package for packaging python
   code. (_**Contributor**_)
