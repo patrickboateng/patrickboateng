@@ -23,8 +23,8 @@ to get in touch.
 
 - [**geolab**](https://github.com/patrickboateng/geolab): An open-source software for geotechnical
   engineering analysis and modelling.
-- [**compressive-strength-prediction**](https://github.com/patrickboateng/compressive-strength-prediction): A machine learning
-  model used to predict the compressive strength of concrete.
+- [**compressive-strength-prediction**](https://github.com/patrickboateng/compressive-strength-prediction):
+  A machine learning model used to predict the compressive strength of concrete.
 - [**makepackage**](https://github.com/patrickboateng/makepackage): A Python package for packaging python
   code. (_**Contributor**_)
 
@@ -49,10 +49,10 @@ to get in touch.
         <img style="padding:2px" alt="javascript" width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
       </td>
       <td>
-      <img style="padding:2px;" alt="latex" width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" />
+        <img style="padding:2px" alt="pytorch" width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
       </td>
       <td>
-        <img style="padding:2px" alt="pytorch" width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
+      <img style="padding:2px;" alt="latex" width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" />
       </td>
     </tr>
 </table>
