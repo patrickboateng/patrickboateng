@@ -14,9 +14,15 @@ Let's connect if you're interested in my work or have exciting project ideas. Ch
 to get in touch.
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/patrickboateng/"><img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin" alt="linkedin"></a>
-  <a href="mailto:boatengpato.pb@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white"></a>
-  <a href="https://pypi.org/user/Pato546/"><img src="https://img.shields.io/badge/PyPi-Pato546-blue?style=flat-square&logo=pypi&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/patrickboateng/">
+  <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin" alt="linkedin">
+  </a>
+  <a href="mailto:boatengpato.pb@gmail.com">
+  <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://pypi.org/user/Pato546/">
+  <img src="https://img.shields.io/badge/PyPi-Pato546-blue?style=flat-square&logo=pypi&logoColor=white">
+  </a>
 </p>
 
 ## Projects
