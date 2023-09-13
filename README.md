@@ -94,6 +94,7 @@ to get in touch.
 - [Mastering Visual Studio Code](https://www.ude.my/UC-3bfda196-80b0-4850-a7c9-364af94118ec/)
 - [Master Microsoft Excel Macros and Excel VBA](https://www.ude.my/UC-d24d042c-9242-472e-9360-11ede0c2e2dd/)
 - [VBA Excel Programming - The Complete Guide](https://www.ude.my/UC-a57da340-c556-4fc6-b8db-ddc0915614c1/)
+- [Git & Github - The Practical Guide](https://www.ude.my/UC-03f29387-390a-488f-89dd-2a82758c96a0)
 
 </details>
 
