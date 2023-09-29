@@ -1,17 +1,19 @@
 # Hi :wave: I'm Patrick :smiley:
 
-Hello! I'm a civil engineer with a passion for programming, machine learning, and problem-solving.
-My primary programming language is Python, but I'm also confident in C and C++ programming languages,
-with a specific emphasis on machine learning and software development. Additionally, I have a keen
-interest in GUI design, specifically utilizing the [**Qt/PySide6**](https://wiki.qt.io/Qt_for_Python)
-Framework.
+Hello! I'm a civil engineer with a passion for programming, machine learning,
+and problem-solving. My primary programming language is Python, but I'm also
+confident in C and C++ programming languages, with a specific emphasis on
+machine learning and software development. Additionally, I have a keen interest
+in GUI design, specifically utilizing the
+[**Qt/PySide6**](https://wiki.qt.io/Qt_for_Python) Framework.
 
-I enjoy using programming to solve problems in civil engineering and exploring the potential of machine
-learning techniques in this field. My long-term goal is to develop software that effectively solves civil
-engineering problems by combining my programming and machine learning expertise.
+I enjoy using programming to solve problems in civil engineering and exploring
+the potential of machine learning techniques in this field. My long-term goal is
+to develop software that effectively solves civil engineering problems by
+combining my programming and machine learning expertise.
 
-Let's connect if you're interested in my work or have exciting project ideas. Check out the links below
-to get in touch.
+Let's connect if you're interested in my work or have exciting project ideas.
+Check out the links below to get in touch.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/patrickboateng/">
