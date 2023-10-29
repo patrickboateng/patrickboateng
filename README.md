@@ -1,6 +1,6 @@
-# Hi :wave: I'm Patrick :smiley:
+Hi I'm Patrick and I am on a mission to revolutionize civil engineering.
 
-Hello! I'm a civil engineer with a passion for programming, machine learning,
+<!-- Hello! I'm a civil engineer with a passion for programming, machine learning,
 and problem-solving. My primary programming language is Python, but I'm also
 confident in C and C++ programming languages, with a specific emphasis on
 machine learning and software development. Additionally, I have a keen interest
@@ -117,4 +117,4 @@ Check out the links below to get in touch.
 - **Python Testing Framework**: [Pytest](https://pytest.org)
 - **Python Static Type Checker**: [Mypy](https://mypy-lang.org)
 
-</details>
+</details> -->
