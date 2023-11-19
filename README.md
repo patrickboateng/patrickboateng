@@ -1,19 +1,6 @@
+# About Me
+
 Hi I'm Patrick and I am on a mission to revolutionize civil engineering.
-
-<!-- Hello! I'm a civil engineer with a passion for programming, machine learning,
-and problem-solving. My primary programming language is Python, but I'm also
-confident in C and C++ programming languages, with a specific emphasis on
-machine learning and software development. Additionally, I have a keen interest
-in GUI design, specifically utilizing the
-[**Qt/PySide6**](https://wiki.qt.io/Qt_for_Python) Framework.
-
-I enjoy using programming to solve problems in civil engineering and exploring
-the potential of machine learning techniques in this field. My long-term goal is
-to develop software that effectively solves civil engineering problems by
-combining my programming and machine learning expertise.
-
-Let's connect if you're interested in my work or have exciting project ideas.
-Check out the links below to get in touch.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/patrickboateng/">
@@ -27,20 +14,31 @@ Check out the links below to get in touch.
   </a>
 </p>
 
-## Projects
+You can find me at:
 
-- [**geolab**](https://github.com/patrickboateng/geolab): An open-source software for geotechnical
-  engineering analysis and modelling.
-- [**compressive-strength-prediction**](https://github.com/patrickboateng/compressive-strength-prediction):
-  A machine learning model used to predict the compressive strength of concrete.
-- [**makepackage**](https://github.com/patrickboateng/makepackage): A Python package for packaging python
-  code. (_**Contributor**_)
+- [**LinkedIn**](https://https://www.linkedin.com/in/patrickboateng/)
 
-## Badges
+I maintain/collaborate on a few python packages including:
 
-- [Deep Neural Networks with Pytorch](https://www.credly.com/badges/ed780275-1244-4d75-98c7-5e18e8be527a/public_url)
+- [**geolysis**](https://github.com/patrickboateng/geolab): An open-source
+  software for geotechnical engineering analysis and modelling.
 
-## Programming Languages and Tools
+  [![PyPI](https://img.shields.io/pypi/v/geolysis?style=flat "Geolysis PyPI page")](https://pypi.org/project/geolysis)
+  [![GitHub last commit](https://img.shields.io/github/last-commit/patrickboateng/geolysis?logo=github&style=flat "Recent geolysis commits")](https://github.com/patrickboateng/geolysis/commits)
+  [![PyPI - Downloads](https://img.shields.io/pypi/dm/geolysis?style=flat "Download stats for geolysis")](https://pypistats.org/packages/geolysis)
+  [![GitHub Repo stars](https://img.shields.io/github/stars/patrickboateng/geolysis?style=flat)](https://github.com/patrickboateng/geolysis/stargazers)
+  ![repo size](https://img.shields.io/github/repo-size/patrickboateng/geolysis?style=flat)
+
+- [**makepackage**](https://github.com/patrickboateng/makepackage): A Python
+  package for packaging python code. (_**Collaborator**_)
+
+  [![PyPI](https://img.shields.io/pypi/v/makepackage?style=flat "Makepackage PyPI page")](https://pypi.org/project/makepackage)
+  [![GitHub last commit](https://img.shields.io/github/last-commit/nyggus/makepackage?logo=github&style=flat "Recent geolysis commits")](https://github.com/nyggus/makepackage/commits)
+  [![PyPI - Downloads](https://img.shields.io/pypi/dm/makepackage?style=flat "Download stats for makepackage")](https://pypistats.org/packages/makepackage)
+  [![GitHub Repo stars](https://img.shields.io/github/stars/nyggus/makepackage?style=flat)](https://github.com/nyggus/makepackage/stargazers)
+  ![repo size](https://img.shields.io/github/repo-size/nyggus/makepackage?style=flat)
+
+Programming languages and tools I use:
 
 <table>
   <tr>
@@ -64,12 +62,29 @@ Check out the links below to get in touch.
         <img style="padding:2px" alt="pytorch" width=30
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
       </td>
-      <td>
-      <img style="padding:2px;" alt="latex" width=30
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" />
-      </td>
     </tr>
 </table>
+
+  <!-- Hello! I'm a civil engineer with a passion for programming, machine learning,
+  and problem-solving. My primary programming language is Python, but I'm also
+  confident in C and C++ programming languages, with a specific emphasis on
+  machine learning and software development. Additionally, I have a keen interest
+  in GUI design, specifically utilizing the
+  [**Qt/PySide6**](https://wiki.qt.io/Qt_for_Python) Framework.
+
+<!-- I enjoy using programming to solve problems in civil engineering and exploring
+the potential of machine learning techniques in this field. My long-term goal is
+to develop software that effectively solves civil engineering problems by
+combining my programming and machine learning expertise.
+
+Let's connect if you're interested in my work or have exciting project ideas.
+Check out the links below to get in touch.
+
+## Badges
+
+- [Deep Neural Networks with Pytorch](https://www.credly.com/badges/ed780275-1244-4d75-98c7-5e18e8be527a/public_url)
+
+
 
 ## Online Courses Taken
 
