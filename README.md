@@ -2,17 +2,9 @@
 
 Hi I'm Patrick and I am on a mission to revolutionize civil engineering.
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/patrickboateng/">
-  <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin" alt="linkedin">
-  </a>
-  <a href="mailto:boatengpato.pb@gmail.com">
-  <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://pypi.org/user/Pato546/">
-  <img src="https://img.shields.io/badge/PyPi-Pato546-blue?style=flat-square&logo=pypi&logoColor=white">
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/patrickboateng/)
+[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:boatengpato.pb@gmail.com)
+[![PyPi](https://img.shields.io/badge/PyPi-Pato546-blue?style=flat-square&logo=pypi&logoColor=white)](https://pypi.org/user/Pato546/)
 
 You can find me at:
 
@@ -23,18 +15,18 @@ I maintain/collaborate on a few python packages including:
 - [**geolysis**](https://github.com/patrickboateng/geolab): An open-source
   software for geotechnical engineering analysis and modelling.
 
-  [![PyPI](https://img.shields.io/pypi/v/geolysis?style=flat "Geolysis PyPI page")](https://pypi.org/project/geolysis)
-  [![GitHub last commit](https://img.shields.io/github/last-commit/patrickboateng/geolysis?logo=github&style=flat "Recent geolysis commits")](https://github.com/patrickboateng/geolysis/commits)
-  [![PyPI - Downloads](https://img.shields.io/pypi/dm/geolysis?style=flat "Download stats for geolysis")](https://pypistats.org/packages/geolysis)
+  [![PyPI](https://img.shields.io/pypi/v/geolysis?style=flat)](https://pypi.org/project/geolysis)
+  [![GitHub last commit](https://img.shields.io/github/last-commit/patrickboateng/geolysis?logo=github&style=flat)](https://github.com/patrickboateng/geolysis/commits)
+  [![PyPI - Downloads](https://img.shields.io/pypi/dm/geolysis?style=flat)](https://pypistats.org/packages/geolysis)
   [![GitHub Repo stars](https://img.shields.io/github/stars/patrickboateng/geolysis?style=flat)](https://github.com/patrickboateng/geolysis/stargazers)
   ![repo size](https://img.shields.io/github/repo-size/patrickboateng/geolysis?style=flat)
 
 - [**makepackage**](https://github.com/patrickboateng/makepackage): A Python
   package for packaging python code. (_**Collaborator**_)
 
-  [![PyPI](https://img.shields.io/pypi/v/makepackage?style=flat "Makepackage PyPI page")](https://pypi.org/project/makepackage)
-  [![GitHub last commit](https://img.shields.io/github/last-commit/nyggus/makepackage?logo=github&style=flat "Recent geolysis commits")](https://github.com/nyggus/makepackage/commits)
-  [![PyPI - Downloads](https://img.shields.io/pypi/dm/makepackage?style=flat "Download stats for makepackage")](https://pypistats.org/packages/makepackage)
+  [![PyPI](https://img.shields.io/pypi/v/makepackage?style=flat)](https://pypi.org/project/makepackage)
+  [![GitHub last commit](https://img.shields.io/github/last-commit/nyggus/makepackage?logo=github&style=flat)](https://github.com/nyggus/makepackage/commits)
+  [![PyPI - Downloads](https://img.shields.io/pypi/dm/makepackage?style=flat)](https://pypistats.org/packages/makepackage)
   [![GitHub Repo stars](https://img.shields.io/github/stars/nyggus/makepackage?style=flat)](https://github.com/nyggus/makepackage/stargazers)
   ![repo size](https://img.shields.io/github/repo-size/nyggus/makepackage?style=flat)
 
@@ -44,23 +36,28 @@ Programming languages and tools I use:
   <tr>
       <td>
         <img style="padding:2px" alt="python" width=30
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+        />
       </td>
       <td>
         <img style="padding:2px" alt="C" width=30
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"
+        />
       <td>
         <img style="padding:2px" alt="C++" width=30
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"
+        />
       </td>
       </td>
       <td>
         <img style="padding:2px" alt="javascript" width=30
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+        />
       </td>
       <td>
         <img style="padding:2px" alt="pytorch" width=30
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg"
+        />
       </td>
     </tr>
 </table>
