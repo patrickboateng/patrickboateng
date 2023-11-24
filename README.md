@@ -12,7 +12,7 @@ You can find me at:
 
 I maintain/collaborate on a few python packages including:
 
-- [**geolysis**](https://github.com/patrickboateng/geolab): An open-source
+- [**geolysis**](https://github.com/patrickboateng/geolysis): An open-source
   software for geotechnical engineering analysis and modelling.
 
   [![PyPI](https://img.shields.io/pypi/v/geolysis?style=flat)](https://pypi.org/project/geolysis)
