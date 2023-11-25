@@ -8,14 +8,11 @@
 
 Hi I'm Patrick and I am on a mission to revolutionize civil engineering.
 
-[![LinkedIn](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/patrickboateng/)
+[![LinkedIn](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=linkedin)][linkedin_url]
 [![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white)](mailto:boatengpato.pb@gmail.com)
-[![Static Badge](https://img.shields.io/badge/Academic%20CV-8A2BE2)][academic_cv_url]
+[![Static Badge](https://img.shields.io/badge/Academic_CV-8A2BE2?logo=adobe%20acrobat%20reader)][academic_cv_url]
+![GitHub followers](https://img.shields.io/github/followers/patrickboateng)
 [![PyPi](https://img.shields.io/badge/PyPi-Pato546-blue?style=flat&logo=pypi&logoColor=white)](https://pypi.org/user/Pato546/)
-
-You can find me at:
-
-- [**LinkedIn**][linkedin_url]
 
 I maintain/collaborate on a few python packages including:
 
