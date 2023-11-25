@@ -1,22 +1,29 @@
+[linkedin_url]: https://www.linkedin.com/in/patrickboateng/
+[academic_cv_url]: https://github.com/patrickboateng/cv/blob/main/academic/academic_cv.pdf
+[geolysis_github_url]: https://github.com/patrickboateng/geolysis
+[geolysis_pypi_url]: https://pypi.org/project/geolysis
+[geolysis_commits_url]: https://github.com/patrickboateng/geolysis/commits
+
 # About Me
 
 Hi I'm Patrick and I am on a mission to revolutionize civil engineering.
 
-[![LinkedIn](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/patrickboateng/)
-[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:boatengpato.pb@gmail.com)
-[![PyPi](https://img.shields.io/badge/PyPi-Pato546-blue?style=flat-square&logo=pypi&logoColor=white)](https://pypi.org/user/Pato546/)
+[![LinkedIn](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/patrickboateng/)
+[![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white)](mailto:boatengpato.pb@gmail.com)
+[![Static Badge](https://img.shields.io/badge/Academic%20CV-8A2BE2)][academic_cv_url]
+[![PyPi](https://img.shields.io/badge/PyPi-Pato546-blue?style=flat&logo=pypi&logoColor=white)](https://pypi.org/user/Pato546/)
 
 You can find me at:
 
-- [**LinkedIn**](https://https://www.linkedin.com/in/patrickboateng/)
+- [**LinkedIn**][linkedin_url]
 
 I maintain/collaborate on a few python packages including:
 
-- [**geolysis**](https://github.com/patrickboateng/geolysis): An open-source
-  software for geotechnical engineering analysis and modelling.
+- [**geolysis**][geolysis_github_url]: An open-source software for geotechnical
+  engineering analysis and modelling.
 
-  [![PyPI](https://img.shields.io/pypi/v/geolysis?style=flat)](https://pypi.org/project/geolysis)
-  [![GitHub last commit](https://img.shields.io/github/last-commit/patrickboateng/geolysis?logo=github&style=flat)](https://github.com/patrickboateng/geolysis/commits)
+  [![PyPI](https://img.shields.io/pypi/v/geolysis?style=flat)][geolysis_pypi_url]
+  [![GitHub last commit](https://img.shields.io/github/last-commit/patrickboateng/geolysis?logo=github&style=flat)][geolysis_commits_url]
   [![PyPI - Downloads](https://img.shields.io/pypi/dm/geolysis?style=flat)](https://pypistats.org/packages/geolysis)
   [![GitHub Repo stars](https://img.shields.io/github/stars/patrickboateng/geolysis?style=flat)](https://github.com/patrickboateng/geolysis/stargazers)
   ![repo size](https://img.shields.io/github/repo-size/patrickboateng/geolysis?style=flat)
