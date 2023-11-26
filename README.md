@@ -6,7 +6,16 @@
 
 # About Me
 
-Hi I'm Patrick and I am on a mission to revolutionize civil engineering.
+Hi :wave: I'm Patrick, I am a Civil Engineer at [Heureka Consult](https://www.heurekaconsult.com).
+I am very passionate about programming, machine learning, open-source and generally
+problem-solving. I enjoy using programming to solve problems in civil engineering
+and exploring the potential of machine learning techniques in this field.
+My long-term goal is to develop software that effectively solves civil engineering
+problems by combining my programming and machine learning expertise.
+
+_I am on a mission to revolutionize civil engineering._
+
+---
 
 [![LinkedIn](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=linkedin)][linkedin_url]
 [![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white)](mailto:boatengpato.pb@gmail.com)
@@ -66,26 +75,7 @@ Programming languages and tools I use:
     </tr>
 </table>
 
-  <!-- Hello! I'm a civil engineer with a passion for programming, machine learning,
-  and problem-solving. My primary programming language is Python, but I'm also
-  confident in C and C++ programming languages, with a specific emphasis on
-  machine learning and software development. Additionally, I have a keen interest
-  in GUI design, specifically utilizing the
-  [**Qt/PySide6**](https://wiki.qt.io/Qt_for_Python) Framework.
-
-<!-- I enjoy using programming to solve problems in civil engineering and exploring
-the potential of machine learning techniques in this field. My long-term goal is
-to develop software that effectively solves civil engineering problems by
-combining my programming and machine learning expertise.
-
-Let's connect if you're interested in my work or have exciting project ideas.
-Check out the links below to get in touch.
-
-## Badges
-
-- [Deep Neural Networks with Pytorch](https://www.credly.com/badges/ed780275-1244-4d75-98c7-5e18e8be527a/public_url)
-
-
+<!--
 
 ## Online Courses Taken
 
