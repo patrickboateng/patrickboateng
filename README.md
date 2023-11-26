@@ -1,5 +1,5 @@
 [linkedin_url]: https://www.linkedin.com/in/patrickboateng/
-[academic_cv_url]: https://github.com/patrickboateng/cv/blob/main/academic/academic_cv.pdf
+[academic_cv_url]: https://github.com/patrickboateng/cv/blob/main/academic_cv.pdf
 [geolysis_github_url]: https://github.com/patrickboateng/geolysis
 [geolysis_pypi_url]: https://pypi.org/project/geolysis
 [geolysis_commits_url]: https://github.com/patrickboateng/geolysis/commits
