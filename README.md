@@ -4,9 +4,9 @@
 [geolysis_pypi_url]: https://pypi.org/project/geolysis
 [geolysis_commits_url]: https://github.com/patrickboateng/geolysis/commits
 
-# About Me
+# Patrick Boateng
 
-Hi :wave: I'm Patrick, I am a Civil Engineer at [Heureka Consult](https://www.heurekaconsult.com).
+Hi :wave:, I am a Civil Engineer at [Heureka Consult](https://www.heurekaconsult.com).
 I am very passionate about programming, machine learning, open-source and generally
 problem-solving. I enjoy using programming to solve problems in civil engineering
 and exploring the potential of machine learning techniques in this field.
@@ -20,8 +20,8 @@ _I am on a mission to revolutionize civil engineering._
 [![LinkedIn](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=linkedin)][linkedin_url]
 [![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white)](mailto:boatengpato.pb@gmail.com)
 [![Static Badge](https://img.shields.io/badge/Academic_CV-8A2BE2?logo=adobe%20acrobat%20reader)][academic_cv_url]
-![GitHub followers](https://img.shields.io/github/followers/patrickboateng)
 [![PyPi](https://img.shields.io/badge/PyPi-Pato546-blue?style=flat&logo=pypi&logoColor=white)](https://pypi.org/user/Pato546/)
+[![GitHub follow](https://img.shields.io/github/followers/patrickboateng?label=Follow&style=social)](https://github.com/patrickboateng)
 
 I maintain/collaborate on a few python packages including:
 
