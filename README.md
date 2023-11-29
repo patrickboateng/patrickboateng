@@ -37,7 +37,7 @@ I maintain/collaborate on a few python packages including:
 - [**makepackage**](https://github.com/patrickboateng/makepackage): A Python
   package for packaging python code. (_**Collaborator**_)
 
-  [![PyPI](https://img.shields.io/pypi/v/makepackage?style=social)](https://pypi.org/project/makepackage)
+  [![PyPI](https://img.shields.io/pypi/v/makepackage?logo=pypi&style=social)](https://pypi.org/project/makepackage)
   [![GitHub last commit](https://img.shields.io/github/last-commit/nyggus/makepackage?logo=github&style=social)](https://github.com/nyggus/makepackage/commits)
   [![PyPI - Downloads](https://img.shields.io/pypi/dm/makepackage?logo=pypi&style=social)](https://pypistats.org/packages/makepackage)
   [![GitHub Repo stars](https://img.shields.io/github/stars/nyggus/makepackage?style=social)](https://github.com/nyggus/makepackage/stargazers)
