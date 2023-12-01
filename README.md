@@ -43,7 +43,7 @@ I maintain/collaborate on a few python packages including:
   [![GitHub Repo stars](https://img.shields.io/github/stars/nyggus/makepackage?style=social)](https://github.com/nyggus/makepackage/stargazers)
   ![repo size](https://img.shields.io/github/repo-size/nyggus/makepackage?logo=github&style=social)
 
-Programming languages and tools I use:
+Programming languages/frameworks I use:
 
 <table>
   <tr>
