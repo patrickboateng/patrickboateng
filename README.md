@@ -50,7 +50,7 @@ Programming languages/frameworks I use:
 <img style="padding:10px" alt="C" width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
 <img style="padding:10px" alt="C++" width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
 <img style="padding:10px" alt="pytorch" width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg"/>
-<img style="padding:15px" alt="sklearn" width=30 src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"/>
+<img style="padding:10px;padding-bottom:15px" alt="sklearn" width=40  src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"/>
 </p>
 
 <!--
