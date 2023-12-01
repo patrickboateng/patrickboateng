@@ -46,11 +46,11 @@ I maintain/collaborate on a few python packages including:
 Programming languages/frameworks I use:
 
 <p align="left">
-<img style="padding:10px" alt="python" width=40 height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-<img style="padding:10px" alt="C" width=40 height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
-<img style="padding:10px" alt="C++" width=40 height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
-<img style="padding:10px" alt="pytorch" width=40 height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg"/>
-<img style="padding:10px;padding-bottom:15px" alt="sklearn" width=40 height=40  src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"/>
+<img style="margin-right:10px;" alt="python" width=30 height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+<img style="margin-right:10px" alt="C" width=30 height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
+<img style="margin-right:10px" alt="C++" width=30 height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
+<img style="margin-right:10px" alt="pytorch" width=30 height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg"/>
+<img style="margin-right:10px" alt="sklearn" width=30 height=30  src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"/>
 </p>
 
 <!--
@@ -79,7 +79,7 @@ Programming languages/frameworks I use:
 - [Clean Code](https://www.ude.my/UC-abdddf56-dea4-4cab-8a3c-aa9a77d137ca/)
 - [Mastering Visual Studio Code](https://www.ude.my/UC-3bfda196-80b0-4850-a7c9-364af94118ec/)
 - [Master Microsoft Excel Macros and Excel VBA](https://www.ude.my/UC-d24d042c-9242-472e-9360-11ede0c2e2dd/)
-- [VBA Excel Programming - The Complete Guide](https://www.ude.my/UC-a57da340-c556-4fc6-b8db-ddc0915614c1/)
+- [VBA Excel Programming - The Complete Guide](https://www.ude.my/UC-a57da330-c556-4fc6-b8db-ddc0915614c1/)
 - [Git & Github - The Practical Guide](https://www.ude.my/UC-03f29387-390a-488f-89dd-2a82758c96a0)
 
 </details>
