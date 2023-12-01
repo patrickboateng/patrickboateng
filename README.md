@@ -45,7 +45,7 @@ I maintain/collaborate on a few python packages including:
 
 Programming languages/frameworks I use:
 
-<table style="border:none">
+<table style="border:none;">
   <tr>
       <td>
         <img style="padding:2px" alt="python" width=30
