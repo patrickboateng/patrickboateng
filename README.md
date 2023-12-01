@@ -45,40 +45,13 @@ I maintain/collaborate on a few python packages including:
 
 Programming languages/frameworks I use:
 
-<table style="border:none;">
-  <tr>
-      <td>
-        <img style="padding:2px" alt="python" width=30
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
-        />
-      </td>
-      <td>
-        <img style="padding:2px" alt="C" width=30
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"
-        />
-      <td>
-        <img style="padding:2px" alt="C++" width=30
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"
-        />
-      </td>
-      </td>
-      <!-- <td>
-        <img style="padding:2px" alt="javascript" width=30
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
-        />
-      </td> -->
-      <td>
-        <img style="padding:2px" alt="pytorch" width=30
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg"
-        />
-      </td>
-      <td>
-        <img style="padding:2px" alt="sklearn" width=30
-        src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"
-        />
-      </td>
-    </tr>
-</table>
+<p align="left">
+<img style="padding:10px" alt="python" width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+<img style="padding:10px" alt="C" width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
+<img style="padding:10px" alt="C++" width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
+<img style="padding:10px" alt="pytorch" width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg"/>
+<img style="padding:15px" alt="sklearn" width=30 src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"/>
+</p>
 
 <!--
 
