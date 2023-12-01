@@ -21,7 +21,7 @@ _I am on a mission to revolutionize civil engineering._
 [![Email](https://img.shields.io/badge/-Email-red?style=social&logo=gmail)](mailto:boatengpato.pb@gmail.com)
 [![Static Badge](https://img.shields.io/badge/Academic_CV-8A2BE2?logo=adobe%20acrobat%20reader&style=social)][academic_cv_url]
 [![PyPi](https://img.shields.io/badge/PyPi-Pato546-blue?style=social&logo=pypi)](https://pypi.org/user/Pato546/)
-[![GitHub follow](https://img.shields.io/github/followers/patrickboateng?label=Follow&style=social)](https://github.com/patrickboateng)
+[![GitHub followers](https://img.shields.io/github/followers/patrickboateng?label=Followers&style=social)](https://github.com/patrickboateng)
 
 I maintain/collaborate on a few python packages including:
 
@@ -70,6 +70,11 @@ Programming languages and tools I use:
       <td>
         <img style="padding:2px" alt="pytorch" width=30
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg"
+        />
+      </td>
+      <td>
+        <img style="padding:2px" alt="sklearn" width=30
+        src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"
         />
       </td>
     </tr>
