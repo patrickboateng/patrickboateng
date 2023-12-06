@@ -15,7 +15,7 @@ problems by combining my programming and machine learning expertise.
 
 _I am on a mission to revolutionize civil engineering._
 
----
+#
 
 [![LinkedIn](https://img.shields.io/badge/-Linkedin-blue?style=social&logo=linkedin)][linkedin_url]
 [![Email](https://img.shields.io/badge/-Email-red?style=social&logo=gmail)](mailto:boatengpato.pb@gmail.com)
@@ -46,11 +46,11 @@ I maintain/collaborate on a few python packages including:
 Programming languages/frameworks I use:
 
 <p align="left">
-<img style="margin-right:10px;" alt="python" width=30 height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-<img style="margin-right:10px" alt="C" width=30 height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
-<img style="margin-right:10px" alt="C++" width=30 height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
-<img style="margin-right:10px" alt="pytorch" width=30 height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg"/>
-<img style="margin-right:10px" alt="sklearn" width=30 height=30  src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"/>
+<img style="margin-right:20px;" alt="python" width=40 height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+<img style="margin-right:20px" alt="C" width=40 height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
+<img style="margin-right:20px" alt="C++" width=40 height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
+<img style="margin-right:20px" alt="pytorch" width=40 height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg"/>
+<img style="margin-right:20px" alt="sklearn" width=40 height=40  src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"/>
 </p>
 
 <!--
