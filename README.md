@@ -43,7 +43,7 @@ I maintain/collaborate on a few python packages including:
   [![GitHub Repo stars](https://img.shields.io/github/stars/nyggus/makepackage?style=social)](https://github.com/nyggus/makepackage/stargazers)
   ![repo size](https://img.shields.io/github/repo-size/nyggus/makepackage?logo=github&style=social)
 
-Programming languages/frameworks I use:
+## Programming languages/frameworks I use
 
 <p align="left">
 <img style="margin-right:20px;" alt="python" width=40 height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
@@ -52,6 +52,10 @@ Programming languages/frameworks I use:
 <img style="margin-right:20px" alt="pytorch" width=40 height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg"/>
 <img style="margin-right:20px" alt="sklearn" width=40 height=40  src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"/>
 </p>
+
+## Github Stats
+
+[![Patrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=patrickboateng&count_private=true&theme=prussian&show_icons=true)](https://github.com/patrickboateng)
 
 <!--
 
