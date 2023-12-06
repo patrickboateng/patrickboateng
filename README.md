@@ -55,7 +55,7 @@ I maintain/collaborate on a few python packages including:
 
 ## Github Stats
 
-[![Patrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=patrickboateng&count_private=true&theme=prussian&show_icons=true)](https://github.com/patrickboateng)
+[![Patrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=patrickboateng&count_private=true&theme=tokyonight&show_icons=true)](https://github.com/patrickboateng)
 
 <!--
 
