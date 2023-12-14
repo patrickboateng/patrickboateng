@@ -17,31 +17,29 @@ _I am on a mission to revolutionize civil engineering._
 
 #
 
-[![LinkedIn](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin)][linkedin_url]
-[![Email](https://img.shields.io/badge/-Email-blue?style=flat-square&logo=gmail)](mailto:boatengpato.pb@gmail.com)
-[![Static Badge](https://img.shields.io/badge/Academic_CV-8A2BE2?logo=adobe%20acrobat%20reader&style=flat-square)][academic_cv_url]
-[![PyPi](https://img.shields.io/badge/PyPi-Pato546-blue?style=flat-square&logo=pypi)](https://pypi.org/user/Pato546/)
-[![GitHub followers](https://img.shields.io/github/followers/patrickboateng?label=Followers&style=flat-square&logo=github)](https://github.com/patrickboateng)
+[![LinkedIn](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=linkedin)][linkedin_url]
+[![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white)](mailto:boatengpato.pb@gmail.com)
+[![Static Badge](https://img.shields.io/badge/PDF-CV-red?logo=adobe&style=flat)][academic_cv_url]
+[![PyPi](https://img.shields.io/badge/PyPi-Pato546-blue?style=flat&logo=pypi)](https://pypi.org/user/Pato546/)
+[![GitHub followers](https://img.shields.io/github/followers/patrickboateng?label=Followers&style=flat&logo=github)](https://github.com/patrickboateng)
 
 I maintain/collaborate on a few python packages including:
 
 - [**geolysis**][geolysis_github_url]: An open-source software for geotechnical
-  engineering analysis and modelling.
+  engineering analysis and modeling.
 
-  [![PyPI](https://img.shields.io/pypi/v/geolysis?logo=pypi&style=flat-square)][geolysis_pypi_url]
-  [![GitHub last commit](https://img.shields.io/github/last-commit/patrickboateng/geolysis?logo=github&style=flat-square)][geolysis_commits_url]
-  [![PyPI - Downloads](https://img.shields.io/pypi/dm/geolysis?logo=pypi&style=flat-square)](https://pypistats.org/packages/geolysis)
-  [![GitHub Repo stars](https://img.shields.io/github/stars/patrickboateng/geolysis?style=flat-square)](https://github.com/patrickboateng/geolysis/stargazers)
-  ![repo size](https://img.shields.io/github/repo-size/patrickboateng/geolysis?logo=github&style=flat-square)
+  [![PyPI](https://img.shields.io/pypi/v/geolysis?logo=pypi&style=flat)][geolysis_pypi_url]
+  [![GitHub last commit](https://img.shields.io/github/last-commit/patrickboateng/geolysis?logo=github&style=flat)][geolysis_commits_url]
+  [![PyPI - Downloads](https://img.shields.io/pypi/dm/geolysis?logo=pypi&style=flat)](https://pypistats.org/packages/geolysis)
+  ![repo size](https://img.shields.io/github/repo-size/patrickboateng/geolysis?logo=github&style=flat)
 
 - [**makepackage**](https://github.com/patrickboateng/makepackage): A Python
-  package for packaging python code. (_**Collaborator**_)
+  package for packaging python code. (_Collaborator_)
 
-  [![PyPI](https://img.shields.io/pypi/v/makepackage?logo=pypi&style=flat-square)](https://pypi.org/project/makepackage)
-  [![GitHub last commit](https://img.shields.io/github/last-commit/nyggus/makepackage?logo=github&style=flat-square)](https://github.com/nyggus/makepackage/commits)
-  [![PyPI - Downloads](https://img.shields.io/pypi/dm/makepackage?logo=pypi&style=flat-square)](https://pypistats.org/packages/makepackage)
-  [![GitHub Repo stars](https://img.shields.io/github/stars/nyggus/makepackage?style=flat-square)](https://github.com/nyggus/makepackage/stargazers)
-  ![repo size](https://img.shields.io/github/repo-size/nyggus/makepackage?logo=github&style=flat-square)
+  [![PyPI](https://img.shields.io/pypi/v/makepackage?logo=pypi&style=flat)](https://pypi.org/project/makepackage)
+  [![GitHub last commit](https://img.shields.io/github/last-commit/nyggus/makepackage?logo=github&style=flat)](https://github.com/nyggus/makepackage/commits)
+  [![PyPI - Downloads](https://img.shields.io/pypi/dm/makepackage?logo=pypi&style=flat)](https://pypistats.org/packages/makepackage)
+  ![repo size](https://img.shields.io/github/repo-size/nyggus/makepackage?logo=github&style=flat)
 
 ## Programming languages/frameworks I use
 
