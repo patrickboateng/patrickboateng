@@ -17,11 +17,11 @@ problems by combining my programming and machine learning expertise.
 
 _I am on a mission to revolutionize civil engineering._
 
-[![LinkedIn](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=linkedin)][linkedin_url]
-[![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white)](mailto:boatengpato.pb@gmail.com)
-[![Static Badge](https://img.shields.io/badge/PDF-CV-red?logo=adobe&style=flat)][academic_cv_url]
-[![PyPi](https://img.shields.io/badge/PyPi-Pato546-blue?style=flat&logo=pypi)](https://pypi.org/user/Pato546/)
-[![GitHub followers](https://img.shields.io/github/followers/patrickboateng?label=Followers&style=flat&logo=github)](https://github.com/patrickboateng)
+[![LinkedIn](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=linkedin)][linkedin_url]
+[![Email](https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:boatengpato.pb@gmail.com)
+[![Static Badge](https://img.shields.io/badge/PDF-CV-red?logo=adobe&style=for-the-badge)][academic_cv_url]
+[![PyPi](https://img.shields.io/badge/PyPi-Pato546-blue?style=for-the-badge&logo=pypi)](https://pypi.org/user/Pato546/)
+[![GitHub followers](https://img.shields.io/github/followers/patrickboateng?label=Followers&style=for-the-badge&logo=github)](https://github.com/patrickboateng)
 
 I maintain/collaborate on a few python packages including:
 
