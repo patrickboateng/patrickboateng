@@ -1,5 +1,11 @@
 # Patrick Boateng
 
+[![LinkedIn](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=linkedin)][linkedin_url]
+[![Email](https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:boatengpato.pb@gmail.com)
+[![Static Badge](https://img.shields.io/badge/PDF-CV-red?logo=adobe&style=for-the-badge)][academic_cv_url]
+[![PyPi](https://img.shields.io/badge/PyPi-Pato546-blue?style=for-the-badge&logo=pypi)](https://pypi.org/user/Pato546/)
+[![GitHub followers](https://img.shields.io/github/followers/patrickboateng?label=Followers&style=for-the-badge&logo=github)](https://github.com/patrickboateng)
+
 <!-- Links -->
 
 [linkedin_url]: https://www.linkedin.com/in/patrickboateng/
@@ -8,20 +14,13 @@
 [geolysis_pypi_url]: https://pypi.org/project/geolysis
 [geolysis_commits_url]: https://github.com/patrickboateng/geolysis/commits
 
-Hi :wave:, I am a Civil Engineer at [Heureka Consult](https://www.heurekaconsult.com).
-I am very passionate about programming, machine learning, open-source and generally
+I am a graduate student at [University of Memphis](https://www.memphis.edu).
+I am very passionate about programming, machine learning, open-source, and
 problem-solving. I enjoy using programming to solve problems in civil engineering
-and exploring the potential of machine learning techniques in this field.
+and exploring the potential of machine-learning techniques in this field.
 My long-term goal is to develop software that effectively solves civil engineering
-problems by combining my programming and machine learning expertise.
-
-_I am on a mission to revolutionize civil engineering._
-
-[![LinkedIn](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=linkedin)][linkedin_url]
-[![Email](https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:boatengpato.pb@gmail.com)
-[![Static Badge](https://img.shields.io/badge/PDF-CV-red?logo=adobe&style=for-the-badge)][academic_cv_url]
-[![PyPi](https://img.shields.io/badge/PyPi-Pato546-blue?style=for-the-badge&logo=pypi)](https://pypi.org/user/Pato546/)
-[![GitHub followers](https://img.shields.io/github/followers/patrickboateng?label=Followers&style=for-the-badge&logo=github)](https://github.com/patrickboateng)
+problems by combining my expertise in civil engineering, programming, and machine
+learning.
 
 I maintain/collaborate on a few python packages including:
 
