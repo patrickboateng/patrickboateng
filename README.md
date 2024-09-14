@@ -10,12 +10,14 @@
 <!-- Links -->
 
 [linkedin_url]: https://www.linkedin.com/in/patrickboateng/
-[academic_cv_url]: https://github.com/patrickboateng/cv/blob/main/academic_cv.pdf
+
+<!-- [academic_cv_url]: https://github.com/patrickboateng/cv/blob/main/academic_cv.pdf -->
+
 [geolysis_github_url]: https://github.com/patrickboateng/geolysis
 [geolysis_pypi_url]: https://pypi.org/project/geolysis
 [geolysis_commits_url]: https://github.com/patrickboateng/geolysis/commits
 
-I am a graduate student at [University of Memphis](https://www.memphis.edu).
+I am a graduate student at the [University of Memphis](https://www.memphis.edu).
 I am very passionate about programming, machine learning, open-source, and
 problem-solving. I enjoy using programming to solve problems in civil engineering
 and exploring the potential of machine-learning techniques in this field.
