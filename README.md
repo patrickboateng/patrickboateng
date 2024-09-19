@@ -1,3 +1,7 @@
+[geolysis_github_url]: https://github.com/patrickboateng/geolysis
+[geolysis_pypi_url]: https://pypi.org/project/geolysis
+[geolysis_commits_url]: https://github.com/patrickboateng/geolysis/commits
+
 # Patrick Boateng
 
 [![LinkedIn](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=linkedin)][linkedin_url]
@@ -12,10 +16,6 @@
 [linkedin_url]: https://www.linkedin.com/in/patrickboateng/
 
 <!-- [academic_cv_url]: https://github.com/patrickboateng/cv/blob/main/academic_cv.pdf -->
-
-[geolysis_github_url]: https://github.com/patrickboateng/geolysis
-[geolysis_pypi_url]: https://pypi.org/project/geolysis
-[geolysis_commits_url]: https://github.com/patrickboateng/geolysis/commits
 
 I am a graduate student at the [University of Memphis](https://www.memphis.edu).
 I am very passionate about programming, machine learning, open-source, and
@@ -43,11 +43,22 @@ I maintain/collaborate on a few python packages including:
   [![PyPI - Downloads](https://img.shields.io/pypi/dm/makepackage?logo=pypi&style=flat)](https://pypistats.org/packages/makepackage)
   ![repo size](https://img.shields.io/github/repo-size/nyggus/makepackage?logo=github&style=flat)
 
+Other projects I am working on:
+
+- [**EA**](https://github.com/patrickboateng/EA/): Matlab code implementation of
+  numerical methods for solving systems of equations.
+
 ## Programming languages/frameworks I use
 
 <p align="left">
-<img style="margin-right:20px;" alt="python" width=40 height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-<img style="margin-right:20px" alt="C" width=40 height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
-<img style="margin-right:20px" alt="pytorch" width=40 height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg"/>
-<img style="margin-right:20px" alt="sklearn" width=40 height=40  src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"/>
+<img style="margin-right:20px;" alt="python" width=40 height=40 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+<img style="margin-right:20px" alt="C" width=40 height=40 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
+<img style="margin-right:20px" alt="pytorch" width=40 height=40 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg"/>
+<img style="margin-right:20px" alt="sklearn" width=40 height=40  
+src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"/>
+<img style="margin-right:20px" alt="sklearn" width=40 height=40 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" />
 </p>
