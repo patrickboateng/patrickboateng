@@ -48,6 +48,9 @@ Other projects I am working on:
 - [**EA**](https://github.com/patrickboateng/EA/): Matlab code implementation of
   numerical methods for solving systems of equations.
 
+  [![GitHub last commit](https://img.shields.io/github/last-commit/patrickboateng/EA?logo=github&style=flat)][geolysis_commits_url]
+  ![repo size](https://img.shields.io/github/repo-size/patrickboateng/EA?logo=github&style=flat)
+
 ## Programming languages/frameworks I use
 
 <p align="left">
