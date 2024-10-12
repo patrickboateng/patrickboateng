@@ -1,21 +1,18 @@
 [geolysis_github_url]: https://github.com/patrickboateng/geolysis
 [geolysis_pypi_url]: https://pypi.org/project/geolysis
 [geolysis_commits_url]: https://github.com/patrickboateng/geolysis/commits
+[linkedin_url]: https://www.linkedin.com/in/patrickboateng/
+[academic_cv_url]: https://drive.google.com/file/d/1wxIrrbj7z_JD2DBV2hWMwHUNQZv9EtXf/view?usp=sharing
 
 # Patrick Boateng
 
 [![LinkedIn](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=linkedin)][linkedin_url]
 [![Email](https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:boatengpato.pb@gmail.com)
+[![Static Badge](https://img.shields.io/badge/PDF-CV-red?logo=adobe&style=for-the-badge)][academic_cv_url]
 [![PyPi](https://img.shields.io/badge/PyPi-Pato546-blue?style=for-the-badge&logo=pypi)](https://pypi.org/user/Pato546/)
 [![GitHub followers](https://img.shields.io/github/followers/patrickboateng?label=Followers&style=for-the-badge&logo=github)](https://github.com/patrickboateng)
 
-<!-- [![Static Badge](https://img.shields.io/badge/PDF-CV-red?logo=adobe&style=for-the-badge)][academic_cv_url] -->
-
 <!-- Links -->
-
-[linkedin_url]: https://www.linkedin.com/in/patrickboateng/
-
-<!-- [academic_cv_url]: https://github.com/patrickboateng/cv/blob/main/academic_cv.pdf -->
 
 I am a graduate student at the [University of Memphis](https://www.memphis.edu).
 I am very passionate about programming, machine learning, open-source, and
