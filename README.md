@@ -16,13 +16,15 @@
 
 I am a graduate student at the [University of Memphis](https://www.memphis.edu).
 I am very passionate about programming, machine learning, open-source, and
-problem-solving. I enjoy using programming to solve problems in civil engineering
-and exploring the potential of machine-learning techniques in this field.
-My long-term goal is to develop software that effectively solves civil engineering
-problems by combining my expertise in civil engineering, programming, and machine
-learning.
+problem-solving. I enjoy using programming to solve problems in civil
+engineering and exploring the potential of machine-learning techniques in this
+field.
 
-I maintain/collaborate on a few python packages including:
+My long-term goal is to develop software that effectively solves civil
+engineering problems by combining my expertise in civil engineering,
+programming, and machine learning.
+
+I maintain and collaborate on a few python packages including:
 
 - [**geolysis**][geolysis_github_url]: An open-source software for geotechnical
   engineering analysis and modeling.
@@ -43,7 +45,7 @@ I maintain/collaborate on a few python packages including:
 Other projects I am working on:
 
 - [**EA**](https://github.com/patrickboateng/EA/): Matlab code implementation of
-  numerical methods for solving systems of equations.
+  numerical methods for solving linear and non-linear systems of equations.
 
   [![GitHub last commit](https://img.shields.io/github/last-commit/patrickboateng/EA?logo=github&style=flat)][geolysis_commits_url]
   ![repo size](https://img.shields.io/github/repo-size/patrickboateng/EA?logo=github&style=flat)
