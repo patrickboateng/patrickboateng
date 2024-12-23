@@ -44,11 +44,8 @@ I maintain and collaborate on a few python packages including:
 
 Other projects I am working on:
 
-- [**EA**](https://github.com/patrickboateng/EA/): Matlab code implementation of
-  numerical methods for solving linear and non-linear systems of equations.
-
-  [![GitHub last commit](https://img.shields.io/github/last-commit/patrickboateng/EA?logo=github&style=flat)][geolysis_commits_url]
-  ![repo size](https://img.shields.io/github/repo-size/patrickboateng/EA?logo=github&style=flat)
+- [**StructPro**](https://github.com/patrickboateng/StructPro/): An open-source
+  structural analysis software.
 
 ## Programming languages/frameworks I use
 
