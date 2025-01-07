@@ -24,9 +24,74 @@ My long-term goal is to develop software that effectively solves civil
 engineering problems by combining my expertise in civil engineering,
 programming, and machine learning.
 
-I maintain and collaborate on a few python packages including:
+## Open-Source Projects
 
-- [**geolysis**][geolysis_github_url]: An open-source software for geotechnical
+<table>
+  <tr>
+    <th>Title</th>
+    <th>Description</th>
+    <th>Stars</th>
+    <th>Technologies</th>
+  </tr>
+
+  <tr>
+    <td><a href="https://github.com/patrickboateng/geolysis">geolysis</a></td>
+    <td>
+    An open-source library for geotechnical engineering analysis and modeling
+    </td>
+    <td>
+    <img alt="GitHub Repo stars" 
+    src="https://img.shields.io/github/stars/patrickboateng/geolysis">
+    </td>
+    <td>
+    <img alt="Python logo" 
+    src="https://img.shields.io/badge/Python-black?style=flat-square&logo=python">
+    </img>
+    </td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/patrickboateng/StructPro/">StructPro</a></td>
+    <td>An open-source structural analysis software</td>
+    <td>
+    <img alt="GitHub Repo stars" 
+    src="https://img.shields.io/github/stars/patrickboateng/StructPro">
+    </td>
+    <td>
+    <img alt="Python logo" 
+    src="https://img.shields.io/badge/Python-black?style=flat-square&logo=python">
+    </img>
+    </td>
+  </tr>
+</table>
+
+## Open-Source Contributions
+
+<table>
+  <tr>
+    <th>Title</th>
+    <th>Description</th>
+    <th>Stars</th>
+    <th>Technologies</th>
+  </tr>
+
+  <tr>
+    <td><a href=https://github.com/patrickboateng/makepackage>makepackage</a></td>
+    <td>
+    A Python package for packaging python code.
+    </td>
+    <td>
+    <img alt="GitHub Repo stars" 
+    src="https://img.shields.io/github/stars/nyggus/makepackage">
+    </td>
+    <td>
+    <img alt="Python logo" 
+    src="https://img.shields.io/badge/Python-black?style=flat-square&logo=python">
+    </img>
+    </td>
+  </tr>
+</table>
+
+<!-- - [**geolysis**][geolysis_github_url]: An open-source software for geotechnical
   engineering analysis and modeling.
 
   [![PyPI](https://img.shields.io/pypi/v/geolysis?logo=pypi&style=flat)][geolysis_pypi_url]
@@ -34,30 +99,20 @@ I maintain and collaborate on a few python packages including:
   [![PyPI - Downloads](https://img.shields.io/pypi/dm/geolysis?logo=pypi&style=flat)](https://pypistats.org/packages/geolysis)
   ![repo size](https://img.shields.io/github/repo-size/patrickboateng/geolysis?logo=github&style=flat)
 
-- [**makepackage**](https://github.com/patrickboateng/makepackage): A Python
-  package for packaging python code. (_Collaborator_)
-
-  [![PyPI](https://img.shields.io/pypi/v/makepackage?logo=pypi&style=flat)](https://pypi.org/project/makepackage)
-  [![GitHub last commit](https://img.shields.io/github/last-commit/nyggus/makepackage?logo=github&style=flat)](https://github.com/nyggus/makepackage/commits)
-  [![PyPI - Downloads](https://img.shields.io/pypi/dm/makepackage?logo=pypi&style=flat)](https://pypistats.org/packages/makepackage)
-  ![repo size](https://img.shields.io/github/repo-size/nyggus/makepackage?logo=github&style=flat)
-
-Other projects I am working on:
-
 - [**StructPro**](https://github.com/patrickboateng/StructPro/): An open-source
-  structural analysis software.
+  structural analysis software. -->
 
 ## Programming languages/frameworks I use
 
 <p align="left">
-<img style="margin-right:20px;" alt="python" width=40 height=40 
+<img style="margin-right:20px;" alt="python" width=30 height=30 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-<img style="margin-right:20px" alt="C" width=40 height=40 
+<img style="margin-right:20px" alt="C" width=30 height=30 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
-<img style="margin-right:20px" alt="pytorch" width=40 height=40 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg"/>
-<img style="margin-right:20px" alt="sklearn" width=40 height=40  
-src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"/>
-<img style="margin-right:20px" alt="sklearn" width=40 height=40 
+<img style="margin-right:20px" alt="matlab" width=30 height=30 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" />
+<img style="margin-right:20px" alt="pytorch" width=30 height=30 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg"/>
+<img style="margin-right:20px" alt="sklearn" width=30 height=30  
+src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"/>
 </p>
