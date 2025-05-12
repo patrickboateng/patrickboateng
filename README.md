@@ -14,15 +14,13 @@
 
 <!-- Links -->
 
-I am a graduate student at the [University of Memphis](https://www.memphis.edu).
-I am very passionate about programming, machine learning, open-source, and
-problem-solving. I enjoy using programming to solve problems in civil
-engineering and exploring the potential of machine-learning techniques in this
-field.
+Hey, I'm Patrick, I am currently pursuing my masters degree at
+[UofM](https://www.memphis.edu). I enjoy using programming to solve problems in
+civil engineering and exploring the potential of machine-learning and artificial
+intelligence techniques in this field.
 
-My long-term goal is to develop software that effectively solves civil
-engineering problems by combining my expertise in civil engineering,
-programming, and machine learning.
+**My long-term goal is to develop software that effectively solves civil
+engineering problems by combining programming (software) and machine learning.**
 
 ## Open-Source Projects
 
