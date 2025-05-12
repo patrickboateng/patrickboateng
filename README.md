@@ -38,8 +38,10 @@ engineering problems by combining programming (software) and machine learning.**
     An open-source library for geotechnical engineering analysis and modeling
     </td>
     <td>
+    <a href ="https://github.com/patrickboateng/geolysis/stargazers">  
     <img alt="GitHub Repo stars" 
     src="https://img.shields.io/github/stars/patrickboateng/geolysis">
+    </a>
     </td>
     <td>
     <img alt="Python logo" 
@@ -51,8 +53,10 @@ engineering problems by combining programming (software) and machine learning.**
     <td><a href="https://github.com/patrickboateng/StructPro/">StructPro</a></td>
     <td>An open-source structural analysis software</td>
     <td>
+    <a href ="https://github.com/patrickboateng/StructPro/stargazers">
     <img alt="GitHub Repo stars" 
     src="https://img.shields.io/github/stars/patrickboateng/StructPro">
+    </a>
     </td>
     <td>
     <img alt="Python logo" 
@@ -78,8 +82,10 @@ engineering problems by combining programming (software) and machine learning.**
     A Python package for packaging python code.
     </td>
     <td>
+    <a href ="https://github.com/nyggus/makepackage/stargazers">
     <img alt="GitHub Repo stars" 
     src="https://img.shields.io/github/stars/nyggus/makepackage">
+    </a>
     </td>
     <td>
     <img alt="Python logo" 
