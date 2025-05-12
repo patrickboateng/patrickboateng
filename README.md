@@ -75,7 +75,7 @@ programming, and machine learning.
   </tr>
 
   <tr>
-    <td><a href=https://github.com/patrickboateng/makepackage>makepackage</a></td>
+    <td><a href=https://github.com/nyggus/makepackage>makepackage</a></td>
     <td>
     A Python package for packaging python code.
     </td>
