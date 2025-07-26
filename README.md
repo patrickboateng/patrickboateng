@@ -111,6 +111,8 @@ engineering problems by combining programming (software) and machine learning.**
 <p align="left">
 <img style="margin-right:20px;" alt="python" width=30 height=30 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+<img style="margin-right:20px;" alt="python" width=30 height=30 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 <img style="margin-right:20px" alt="C" width=30 height=30 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
 <img style="margin-right:20px" alt="matlab" width=30 height=30 
