@@ -50,6 +50,23 @@ engineering problems by combining programming (software) and machine learning.**
     </td>
   </tr>
   <tr>
+    <td><a href="https://github.com/patrickboateng/func-validator/">func-validator</a></td>
+    <td>MATLAB-style function argument validation for Python - clean, simple, and
+    reliable
+    </td>
+    <td>
+    <a href ="https://github.com/patrickboateng/StructPro/stargazers">
+    <img alt="GitHub Repo stars" 
+    src="https://img.shields.io/github/stars/patrickboateng/StructPro">
+    </a>
+    </td>
+    <td>
+    <img alt="Python logo" 
+    src="https://img.shields.io/badge/Python-black?style=flat-square&logo=python">
+    </img>
+    </td>
+  </tr>
+  <tr>
     <td><a href="https://github.com/patrickboateng/StructPro/">StructPro</a></td>
     <td>An open-source structural analysis software</td>
     <td>
