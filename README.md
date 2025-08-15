@@ -55,9 +55,9 @@ engineering problems by combining programming (software) and machine learning.**
     reliable
     </td>
     <td>
-    <a href ="https://github.com/patrickboateng/StructPro/stargazers">
+    <a href ="https://github.com/patrickboateng/func-validator/stargazers">
     <img alt="GitHub Repo stars" 
-    src="https://img.shields.io/github/stars/patrickboateng/StructPro">
+    src="https://img.shields.io/github/stars/patrickboateng/func-validator">
     </a>
     </td>
     <td>
