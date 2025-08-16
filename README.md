@@ -12,7 +12,6 @@
 [![PyPi](https://img.shields.io/badge/PyPi-Pato546-blue?style=for-the-badge&logo=pypi)](https://pypi.org/user/Pato546/)
 [![GitHub followers](https://img.shields.io/github/followers/patrickboateng?label=Followers&style=for-the-badge&logo=github)](https://github.com/patrickboateng)
 
-<!-- Links -->
 
 Hey, I'm Patrick, I am currently pursuing my masters degree at
 [UofM](https://www.memphis.edu). I enjoy using programming to solve problems in
@@ -21,6 +20,9 @@ intelligence techniques in this field.
 
 **My long-term goal is to develop software that effectively solves civil
 engineering problems by combining programming (software) and machine learning.**
+
+**I am currently building [Geolysis LLC](https://github.com/geolysis-dev) - 
+Geotechnical Software Toolkit**
 
 ## Open-Source Projects
 
@@ -31,7 +33,6 @@ engineering problems by combining programming (software) and machine learning.**
     <th>Stars</th>
     <th>Technologies</th>
   </tr>
-
   <tr>
     <td><a href="https://github.com/patrickboateng/geolysis">geolysis</a></td>
     <td>
