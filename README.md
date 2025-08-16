@@ -126,16 +126,20 @@ engineering problems by combining programming (software) and machine learning.**
 ## Programming languages/frameworks I use
 
 <p align="left">
-<img style="margin-right:20px;" alt="python" width=30 height=30 
+<img style="margin-right:20px;" alt="python" width=30 height=30
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-<img style="margin-right:20px;" alt="python" width=30 height=30 
+<img style="margin-right:20px;" alt="javascript" width=30 height=30
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-<img style="margin-right:20px" alt="C" width=30 height=30 
+<img style="margin-right:20px;" alt="typescript" width=30 height=30
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
+<img style="margin-right:20px" alt="react" width=30 height=30 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
+<img style="margin-right:20px" alt="C" width=30 height=30
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
-<img style="margin-right:20px" alt="matlab" width=30 height=30 
+<img style="margin-right:20px" alt="matlab" width=30 height=30
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" />
-<img style="margin-right:20px" alt="pytorch" width=30 height=30 
+<img style="margin-right:20px" alt="pytorch" width=30 height=30
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg"/>
-<img style="margin-right:20px" alt="sklearn" width=30 height=30  
-src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"/>
+<img style="margin-right:20px" alt="scikit-learn" width=30 height=30
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" />
 </p>
