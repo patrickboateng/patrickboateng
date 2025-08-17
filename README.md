@@ -36,7 +36,7 @@ Geotechnical Software Toolkit**
   <tr>
     <td><a href="https://github.com/patrickboateng/geolysis">geolysis</a></td>
     <td>
-    An open-source library for geotechnical engineering analysis and modeling
+    An open-source library for geotechnical engineering analysis and modeling.
     </td>
     <td>
     <a href ="https://github.com/patrickboateng/geolysis/stargazers">  
@@ -53,7 +53,7 @@ Geotechnical Software Toolkit**
   <tr>
     <td><a href="https://github.com/patrickboateng/func-validator/">func-validator</a></td>
     <td>MATLAB-style function argument validation for Python - clean, simple, and
-    reliable
+    reliable.
     </td>
     <td>
     <a href ="https://github.com/patrickboateng/func-validator/stargazers">
@@ -68,6 +68,23 @@ Geotechnical Software Toolkit**
     </td>
   </tr>
   <tr>
+    <td><a href="https://github.com/patrickboateng/makepkg/">makepkg</a></td>
+    <td>
+      Python packaging, made simple.
+    </td>
+    <td>
+    <a href ="https://github.com/patrickboateng/makepkg/stargazers">
+    <img alt="GitHub Repo stars" 
+    src="https://img.shields.io/github/stars/patrickboateng/makepkg">
+    </a>
+    </td>
+    <td>
+    <img alt="Python logo" 
+    src="https://img.shields.io/badge/Python-black?style=flat-square&logo=python">
+    </img>
+    </td>
+  </tr>
+  <!-- <tr>
     <td><a href="https://github.com/patrickboateng/StructPro/">StructPro</a></td>
     <td>An open-source structural analysis software</td>
     <td>
@@ -81,7 +98,7 @@ Geotechnical Software Toolkit**
     src="https://img.shields.io/badge/Python-black?style=flat-square&logo=python">
     </img>
     </td>
-  </tr>
+  </tr> -->
 </table>
 
 ## Open-Source Contributions
