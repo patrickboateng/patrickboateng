@@ -13,13 +13,13 @@
 [![GitHub followers](https://img.shields.io/github/followers/patrickboateng?label=Followers&style=for-the-badge&logo=github)](https://github.com/patrickboateng)
 
 
-Hey, I'm Patrick, I am currently pursuing my masters degree at
-[UofM](https://www.memphis.edu). I enjoy using programming to solve problems in
-civil engineering and exploring the potential of machine-learning and artificial
-intelligence techniques in this field.
+Hey, I'm Patrick, I am currently pursuing my masters degree (in civil eng., 
+conc. structural engineering) at [UofM](https://www.memphis.edu). I enjoy using 
+programming to solve problems in civil engineering and exploring the potential 
+of using machine-learning and artificial intelligence techniques in this field.
 
-**My long-term goal is to develop software that effectively solves civil
-engineering problems by combining programming (software) and machine learning.**
+My long-term goal is to develop software that effectively solves civil
+engineering problems by combining programming (software) and machine learning.
 
 **I am currently building [Geolysis LLC](https://github.com/geolysis-dev) - 
 Geotechnical Software Toolkit**
