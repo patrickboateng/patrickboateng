@@ -47,7 +47,7 @@ Geotechnical Software Toolkit**
     </td>
     <td>
     <a href="https://pepy.tech/projects/geolysis">
-    <img src="https://static.pepy.tech/personalized-badge/geolysis?period=total&amp;units=INTERNATIONAL_SYSTEM&amp;left_color=BLACK&amp;right_color=GREEN&amp;left_text=downloads" alt="PyPI Downloads">
+    <img src="https://static.pepy.tech/personalized-badge/geolysis?period=total&amp;units=INTERNATIONAL_SYSTEM&amp;left_color=BLACK&amp;right_color=BLUE&amp;left_text=downloads" alt="PyPI Downloads">
     </a>
     </td>
     <td>
@@ -68,7 +68,7 @@ Geotechnical Software Toolkit**
     </a>
     </td>
     <td><a href="https://pepy.tech/projects/func-validator">
-    <img src="https://static.pepy.tech/personalized-badge/func-validator?period=total&amp;units=INTERNATIONAL_SYSTEM&amp;left_color=BLACK&amp;right_color=GREEN&amp;left_text=downloads" alt="PyPI Downloads">
+    <img src="https://static.pepy.tech/personalized-badge/func-validator?period=total&amp;units=INTERNATIONAL_SYSTEM&amp;left_color=BLACK&amp;right_color=BLUE&amp;left_text=downloads" alt="PyPI Downloads">
   </a>
   </td>
     <td>
@@ -126,7 +126,7 @@ Geotechnical Software Toolkit**
     </td>
     <td>
     <a href="https://pepy.tech/projects/makepackage">
-    <img src="https://static.pepy.tech/personalized-badge/makepackage?period=total&amp;units=INTERNATIONAL_SYSTEM&amp;left_color=BLACK&amp;right_color=GREEN&amp;left_text=downloads" alt="PyPI Downloads">
+    <img src="https://static.pepy.tech/personalized-badge/makepackage?period=total&amp;units=INTERNATIONAL_SYSTEM&amp;left_color=BLACK&amp;right_color=BLUE&amp;left_text=downloads" alt="PyPI Downloads">
   </a>
   </td>
     <td>
