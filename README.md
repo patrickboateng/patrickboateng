@@ -109,6 +109,7 @@ Geotechnical Software Toolkit**
     <th>Title</th>
     <th>Description</th>
     <th>Stars</th>
+    <th>Downloads</th>
     <th>Technologies</th>
   </tr>
 
