@@ -31,6 +31,7 @@ Geotechnical Software Toolkit**
     <th>Title</th>
     <th>Description</th>
     <th>Stars</th>
+    <th>Downloads</th>
     <th>Technologies</th>
   </tr>
   <tr>
@@ -42,6 +43,11 @@ Geotechnical Software Toolkit**
     <a href ="https://github.com/patrickboateng/geolysis/stargazers">  
     <img alt="GitHub Repo stars" 
     src="https://img.shields.io/github/stars/patrickboateng/geolysis">
+    </a>
+    </td>
+    <td>
+    <a href="https://pepy.tech/projects/geolysis">
+    <img src="https://static.pepy.tech/personalized-badge/geolysis?period=total&amp;units=INTERNATIONAL_SYSTEM&amp;left_color=BLACK&amp;right_color=GREEN&amp;left_text=downloads" alt="PyPI Downloads">
     </a>
     </td>
     <td>
@@ -61,6 +67,10 @@ Geotechnical Software Toolkit**
     src="https://img.shields.io/github/stars/patrickboateng/func-validator">
     </a>
     </td>
+    <td><a href="https://pepy.tech/projects/func-validator">
+    <img src="https://static.pepy.tech/personalized-badge/func-validator?period=total&amp;units=INTERNATIONAL_SYSTEM&amp;left_color=BLACK&amp;right_color=GREEN&amp;left_text=downloads" alt="PyPI Downloads">
+  </a>
+  </td>
     <td>
     <img alt="Python logo" 
     src="https://img.shields.io/badge/Python-black?style=flat-square&logo=python">
@@ -78,28 +88,20 @@ Geotechnical Software Toolkit**
     src="https://img.shields.io/github/stars/patrickboateng/makepkg">
     </a>
     </td>
+    <td></td>
     <td>
     <img alt="Python logo" 
     src="https://img.shields.io/badge/Python-black?style=flat-square&logo=python">
     </img>
     </td>
   </tr>
-  <!-- <tr>
-    <td><a href="https://github.com/patrickboateng/StructPro/">StructPro</a></td>
-    <td>An open-source structural analysis software</td>
-    <td>
-    <a href ="https://github.com/patrickboateng/StructPro/stargazers">
-    <img alt="GitHub Repo stars" 
-    src="https://img.shields.io/github/stars/patrickboateng/StructPro">
-    </a>
-    </td>
-    <td>
-    <img alt="Python logo" 
-    src="https://img.shields.io/badge/Python-black?style=flat-square&logo=python">
-    </img>
-    </td>
-  </tr> -->
 </table>
+
+> [!WARNING] 
+> [makepkg](https://github.com/patrickboateng/makepkg) is currently in 
+> development
+
+
 
 ## Open-Source Contributions
 
@@ -122,6 +124,11 @@ Geotechnical Software Toolkit**
     src="https://img.shields.io/github/stars/nyggus/makepackage">
     </a>
     </td>
+    <td>
+    <a href="https://pepy.tech/projects/makepackage">
+    <img src="https://static.pepy.tech/personalized-badge/makepackage?period=total&amp;units=INTERNATIONAL_SYSTEM&amp;left_color=BLACK&amp;right_color=GREEN&amp;left_text=downloads" alt="PyPI Downloads">
+  </a>
+  </td>
     <td>
     <img alt="Python logo" 
     src="https://img.shields.io/badge/Python-black?style=flat-square&logo=python">
