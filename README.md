@@ -20,7 +20,7 @@ of using machine-learning and artificial intelligence techniques in this field.
 My long-term goal is to develop software that effectively solves civil
 engineering problems by combining programming (software) and machine learning.
 
-> [!NOTE]
+> [!INFO]
 > **I am currently building [Geolysis LLC](https://github.com/geolysis-dev) - 
 > Geotechnical Software Toolkit**
 
