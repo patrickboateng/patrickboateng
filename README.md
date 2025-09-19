@@ -2,7 +2,7 @@
 [geolysis_pypi_url]: https://pypi.org/project/geolysis
 [geolysis_commits_url]: https://github.com/patrickboateng/geolysis/commits
 [linkedin_url]: https://www.linkedin.com/in/patrickboateng/
-[academic_cv_url]: https://drive.google.com/file/d/1wxIrrbj7z_JD2DBV2hWMwHUNQZv9EtXf/view?usp=sharing
+[academic_cv_url]: https://drive.google.com/file/d/1-WsnWmK3K2at-KjE660pb9gjX_Yv648J/view?usp=sharing
 
 # Patrick Boateng
 
@@ -17,8 +17,9 @@ conc. structural engineering) at [UofM](https://www.memphis.edu). I enjoy using
 programming to solve problems in civil engineering and exploring the potential 
 of using machine-learning and artificial intelligence techniques in this field.
 
-My long-term goal is to develop software that effectively solves civil
-engineering problems by combining programming (software) and machine learning.
+My long-term goal is to develop software that effectively and efficiently solves 
+civil engineering problems by combining programming (software) and machine 
+learning.
 
 > [!NOTE]
 > **I am currently building [Geolysis LLC](https://github.com/geolysis-dev) - 
