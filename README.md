@@ -137,17 +137,6 @@ learning.
   </tr>
 </table>
 
-<!-- - [**geolysis**][geolysis_github_url]: An open-source software for geotechnical
-  engineering analysis and modeling.
-
-  [![PyPI](https://img.shields.io/pypi/v/geolysis?logo=pypi&style=flat)][geolysis_pypi_url]
-  [![GitHub last commit](https://img.shields.io/github/last-commit/patrickboateng/geolysis?logo=github&style=flat)][geolysis_commits_url]
-  [![PyPI - Downloads](https://img.shields.io/pypi/dm/geolysis?logo=pypi&style=flat)](https://pypistats.org/packages/geolysis)
-  ![repo size](https://img.shields.io/github/repo-size/patrickboateng/geolysis?logo=github&style=flat)
-
-- [**StructPro**](https://github.com/patrickboateng/StructPro/): An open-source
-  structural analysis software. -->
-
 ## Programming languages/frameworks I use
 
 <p align="left">
@@ -171,6 +160,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/sciki
 
 ## Github Stats
 
+> [!NOTE]
+> These are statistics from my public GitHub repositories.
 
 <table>
   <tr>
