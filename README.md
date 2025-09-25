@@ -170,3 +170,17 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original
 <img style="margin-right:20px" alt="scikit-learn" width=30 height=30
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" />
 </p>
+
+## Github Stats
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=patrickboateng&show_icons=true&theme=dark&hide=contribs"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=patrickboateng&show_icons=true&hide=contribs"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=patrickboateng&show_icons=true" />
+</picture>
