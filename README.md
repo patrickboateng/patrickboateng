@@ -102,8 +102,6 @@ learning.
 > [makepkg](https://github.com/patrickboateng/makepkg) is currently in 
 > development
 
-
-
 ## Open-Source Contributions
 
 <table>
@@ -173,14 +171,42 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/sciki
 
 ## Github Stats
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=patrickboateng&show_icons=true&theme=dark&hide=contribs"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=patrickboateng&show_icons=true&hide=contribs"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=patrickboateng&show_icons=true" />
-</picture>
+
+<table>
+  <tr>
+    <td align="center" valign="top">
+      <picture>
+        <source
+          srcset="https://github-readme-stats.vercel.app/api?username=patrickboateng&show_icons=true&theme=dark&hide=contribs"
+          media="(prefers-color-scheme: dark)"
+        />
+        <source
+          srcset="https://github-readme-stats.vercel.app/api?username=patrickboateng&show_icons=true&hide=contribs"
+          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        />
+        <img
+          src="https://github-readme-stats.vercel.app/api?username=patrickboateng&show_icons=true"
+          height="200"
+          alt="Patrick's GitHub stats"
+        />
+      </picture>
+    </td>
+    <td align="center" valign="top">
+      <picture>
+        <source
+          srcset="https://github-readme-stats.vercel.app/api/top-langs?username=patrickboateng&show_icons=true&theme=dark&layout=compact"
+          media="(prefers-color-scheme: dark)"
+        />
+        <source
+          srcset="https://github-readme-stats.vercel.app/api/top-langs?username=patrickboateng&show_icons=true&layout=compact"
+          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        />
+        <img
+          src="https://github-readme-stats.vercel.app/api/top-langs?username=patrickboateng&show_icons=true"
+          height="200"
+          alt="Top languages"
+        />
+      </picture>
+    </td>
+  </tr>
+</table>
