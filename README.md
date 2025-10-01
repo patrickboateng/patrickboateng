@@ -1,28 +1,32 @@
 [geolysis_github_url]: https://github.com/patrickboateng/geolysis
+
 [geolysis_pypi_url]: https://pypi.org/project/geolysis
+
 [geolysis_commits_url]: https://github.com/patrickboateng/geolysis/commits
+
 [linkedin_url]: https://www.linkedin.com/in/patrickboateng/
+
 [academic_cv_url]: https://drive.google.com/file/d/1-WsnWmK3K2at-KjE660pb9gjX_Yv648J/view?usp=sharing
 
 # Patrick Boateng
 
-[![LinkedIn](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=linkedin)][linkedin_url]
-[![Email](https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:boatengpato.pb@gmail.com)
-[![Static Badge](https://img.shields.io/badge/PDF-CV-red?logo=adobe&style=for-the-badge)][academic_cv_url]
-[![PyPi](https://img.shields.io/badge/PyPi-Pato546-blue?style=for-the-badge&logo=pypi)](https://pypi.org/user/Pato546/)
-[![GitHub followers](https://img.shields.io/github/followers/patrickboateng?label=Followers&style=for-the-badge&logo=github)](https://github.com/patrickboateng)
+[![LinkedIn](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge\&logo=linkedin)][linkedin_url]
+[![Email](https://img.shields.io/badge/-Email-red?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:boatengpato.pb@gmail.com)
+[![Static Badge](https://img.shields.io/badge/PDF-CV-red?logo=adobe\&style=for-the-badge)][academic_cv_url]
+[![PyPi](https://img.shields.io/badge/PyPi-Pato546-blue?style=for-the-badge\&logo=pypi)](https://pypi.org/user/Pato546/)
+[![GitHub followers](https://img.shields.io/github/followers/patrickboateng?label=Followers\&style=for-the-badge\&logo=github)](https://github.com/patrickboateng)
 
-Hey, I'm Patrick, I am currently pursuing my masters degree (in civil eng., 
-conc. structural engineering) at [UofM](https://www.memphis.edu). I enjoy using 
-programming to solve problems in civil engineering and exploring the potential 
+Hey, I'm Patrick, I am currently pursuing my masters degree (in civil eng.,
+conc. structural engineering) at [UofM](https://www.memphis.edu). I enjoy using
+programming to solve problems in civil engineering and exploring the potential
 of using machine-learning and artificial intelligence techniques in this field.
 
-My long-term goal is to develop software that effectively and efficiently solves 
-civil engineering problems by combining programming (software) and machine 
+My long-term goal is to develop software that effectively and efficiently solves
+civil engineering problems by combining programming (software) and machine
 learning.
 
-> [!NOTE]
-> **I am currently building [Geolysis LLC](https://github.com/geolysis-dev) - 
+> \[!NOTE]
+> **I am currently building [Geolysis LLC](https://github.com/geolysis-dev) -
 > Geotechnical Software Toolkit**
 
 ## Open-Source Projects
@@ -98,8 +102,8 @@ learning.
   </tr>
 </table>
 
-> [!WARNING] 
-> [makepkg](https://github.com/patrickboateng/makepkg) is currently in 
+> \[!WARNING]
+> [makepkg](https://github.com/patrickboateng/makepkg) is currently in
 > development
 
 ## Open-Source Contributions
@@ -160,44 +164,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/sciki
 
 ## Github Stats
 
-> [!NOTE]
+> \[!NOTE]
 > These are statistics from my public GitHub repositories.
 
-<table>
-  <tr>
-    <td align="center" valign="top">
-      <picture>
-        <source
-          srcset="https://github-readme-stats.vercel.app/api?username=patrickboateng&show_icons=true&theme=dark&hide=contribs"
-          media="(prefers-color-scheme: dark)"
-        />
-        <source
-          srcset="https://github-readme-stats.vercel.app/api?username=patrickboateng&show_icons=true&hide=contribs"
-          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-        />
-        <img
-          src="https://github-readme-stats.vercel.app/api?username=patrickboateng&show_icons=true"
-          height="200"
-          alt="Patrick's GitHub stats"
-        />
-      </picture>
-    </td>
-    <td align="center" valign="top">
-      <picture>
-        <source
-          srcset="https://github-readme-stats.vercel.app/api/top-langs?username=patrickboateng&show_icons=true&theme=dark&layout=compact"
-          media="(prefers-color-scheme: dark)"
-        />
-        <source
-          srcset="https://github-readme-stats.vercel.app/api/top-langs?username=patrickboateng&show_icons=true&layout=compact"
-          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-        />
-        <img
-          src="https://github-readme-stats.vercel.app/api/top-langs?username=patrickboateng&show_icons=true"
-          height="200"
-          alt="Top languages"
-        />
-      </picture>
-    </td>
-  </tr>
-</table>
+![github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=patrickboateng\&show_icons=true\&hide=contribs)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=patrickboateng\&show_icons=true\&layout=compact)
