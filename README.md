@@ -36,7 +36,7 @@ learning.
     <th>Title</th>
     <th>Description</th>
     <th>Stars</th>
-    <th>Downloads</th>
+    <th>PyPI Downloads</th>
     <th>Technologies</th>
   </tr>
   <tr>
@@ -113,7 +113,7 @@ learning.
     <th>Title</th>
     <th>Description</th>
     <th>Stars</th>
-    <th>Downloads</th>
+    <th>PyPI Downloads</th>
     <th>Technologies</th>
   </tr>
 
