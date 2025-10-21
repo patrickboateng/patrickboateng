@@ -10,9 +10,9 @@
 
 # Patrick Boateng
 
-[![LinkedIn](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge\&logo=linkedin)][linkedin_url]
 [![Email](https://img.shields.io/badge/-Email-red?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:boatengpato.pb@gmail.com)
 [![Static Badge](https://img.shields.io/badge/PDF-CV-red?logo=adobe\&style=for-the-badge)][academic_cv_url]
+[![LinkedIn](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge\&logo=linkedin)][linkedin_url]
 [![PyPi](https://img.shields.io/badge/PyPi-Pato546-blue?style=for-the-badge\&logo=pypi)](https://pypi.org/user/Pato546/)
 [![GitHub followers](https://img.shields.io/github/followers/patrickboateng?label=Followers\&style=for-the-badge\&logo=github)](https://github.com/patrickboateng)
 
