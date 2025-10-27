@@ -2,8 +2,6 @@
 
 [geolysis_pypi_url]: https://pypi.org/project/geolysis
 
-[geolysis_commits_url]: https://github.com/patrickboateng/geolysis/commits
-
 [linkedin_url]: https://www.linkedin.com/in/patrickboateng/
 
 [academic_cv_url]: https://drive.google.com/file/d/1-WsnWmK3K2at-KjE660pb9gjX_Yv648J/view?usp=sharing
@@ -14,7 +12,7 @@
 [![Static Badge](https://img.shields.io/badge/PDF-CV-red?logo=adobe\&style=for-the-badge)][academic_cv_url]
 [![LinkedIn](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge\&logo=linkedin)][linkedin_url]
 [![PyPi](https://img.shields.io/badge/PyPi-Pato546-blue?style=for-the-badge\&logo=pypi)](https://pypi.org/user/Pato546/)
-[![GitHub followers](https://img.shields.io/github/followers/patrickboateng?label=Followers\&style=for-the-badge\&logo=github)](https://github.com/patrickboateng)
+[![GitHub followers](https://img.shields.io/github/followers/patrickboateng?label=Followers\&style=for-the-badge\&logo=github)](https://github.com/patrickboateng?tab=followers)
 
 Hey, I'm Patrick, I am currently pursuing my masters degree (in civil eng.,
 conc. structural engineering) at [UofM](https://www.memphis.edu). I enjoy using
