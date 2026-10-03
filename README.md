@@ -178,10 +178,3 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" />
 </p>
 
-## Github Stats
-
-> [!NOTE]
-> These are statistics from my public GitHub repositories.
-
-![github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=patrickboateng\&show_icons=true\&hide=contribs)
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=patrickboateng\&show_icons=true\&layout=compact)
