@@ -12,7 +12,6 @@
 [![Static Badge](https://img.shields.io/badge/PDF-CV-red?logo=adobe\&style=for-the-badge)][academic_cv_url]
 [![LinkedIn](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge\&logo=linkedin)][linkedin_url]
 [![PyPi](https://img.shields.io/badge/PyPi-Pato546-blue?style=for-the-badge\&logo=pypi)](https://pypi.org/user/Pato546/)
-[![GitHub followers](https://img.shields.io/github/followers/patrickboateng?label=Followers\&style=for-the-badge\&logo=github)](https://github.com/patrickboateng?tab=followers)
 
 Hey, I'm Patrick, and I enjoy using programming to solve problems in civil 
 engineering and exploring the potential of using machine-learning and artificial 
